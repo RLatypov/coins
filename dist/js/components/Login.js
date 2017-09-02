@@ -169,7 +169,7 @@ class Login extends React.Component {
 
         return (
             <div>
-                <FlatButton label='Login' className='btn-login' onTouchTap={this.handleOpenDialogLogin} />
+                <FlatButton label='Login' className='btn-login' onClick={this.handleOpenDialogLogin} />
                 <Dialog
                     title='Login'
                     actions={actionsLogin}

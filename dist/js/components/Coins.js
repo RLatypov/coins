@@ -40,10 +40,6 @@ class Coins extends React.Component {
         this.fetchCoins();
     }
 
-    shouldComponentUpdate (nextProps, nextState) {
-        return true;
-    }
-
     fetchCoins () {
         this.props.getData(this.props.data).then((response) => {
             this.setState({
