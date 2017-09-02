@@ -1,0 +1,1722 @@
+{
+    "description":{
+       "author":"Ruslan Latypov",
+       "description":"",
+       "title":"",
+       "type":""
+    },
+    "collections":[
+       {
+          "title":"Andorra",
+          "iso2":"ad",
+          "collection":"andorra",
+          "count":8
+       },
+       {
+          "title":"Austria",
+          "iso2":"at",
+          "collection":"austria",
+          "count":8
+       },
+       {
+          "title":"Belgium (Albert II S1)",
+          "iso2":"be",
+          "collection":"belgium-albert-s1",
+          "count":8
+       },
+       {
+          "title":"Belgium (Albert II S2)",
+          "iso2":"be",
+          "collection":"belgium-albert-s2",
+          "count":8
+       },
+       {
+          "title":"Belgium (Philippe)",
+          "iso2":"be",
+          "collection":"belgium-philippe",
+          "count":8
+       },
+       {
+          "title":"Cyprus",
+          "iso2":"cy",
+          "collection":"cyprus",
+          "count":8
+       },
+       {
+          "title":"Estonia",
+          "iso2":"ee",
+          "collection":"estonia",
+          "count":8
+       },
+       {
+          "title":"Finland S1",
+          "iso2":"fi",
+          "collection":"finland-s1",
+          "count":8
+       },
+       {
+          "title":"France",
+          "iso2":"fr",
+          "collection":"france",
+          "count":8
+       },
+       {
+          "title":"Germany",
+          "iso2":"de",
+          "collection":"germany",
+          "count":8
+       },
+       {
+          "title":"Greece",
+          "iso2":"gr",
+          "collection":"greece",
+          "count":8
+       },
+       {
+          "title":"Ireland",
+          "iso2":"ie",
+          "collection":"ireland",
+          "count":8
+       },
+       {
+          "title":"Italy",
+          "iso2":"it",
+          "collection":"italy",
+          "count":8
+       },
+       {
+          "title":"Latvia",
+          "iso2":"lv",
+          "collection":"latvia",
+          "count":8
+       },
+       {
+          "title":"Lithuania",
+          "iso2":"lt",
+          "collection":"lithuania",
+          "count":8
+       },
+       {
+          "title":"Luxembourg",
+          "iso2":"lu",
+          "collection":"luxembourg",
+          "count":8
+       },
+       {
+          "title":"Malta",
+          "iso2":"mt",
+          "collection":"malta",
+          "count":8
+       },
+       {
+          "title":"Monaco (Ranier III)",
+          "iso2":"mc",
+          "collection":"monaco-ranier",
+          "count":8
+       },
+       {
+          "title":"Monaco (Albert II)",
+          "iso2":"mc",
+          "collection":"monaco-albert",
+          "count":8
+       },
+       {
+          "title":"Netherlands (Beatrix)",
+          "iso2":"nl",
+          "collection":"netherlands-beatrix",
+          "count":8
+       },
+       {
+          "title":"Netherlands (W. Alexander)",
+          "iso2":"nl",
+          "collection":"netherlands-alexander",
+          "count":8
+       },
+       {
+          "title":"Portugal",
+          "iso2":"pt",
+          "collection":"portugal",
+          "count":8
+       },
+       {
+          "title":"San Marino S1",
+          "iso2":"sm",
+          "collection":"san-marino-s1",
+          "count":8
+       },
+       {
+          "title":"Slovakia",
+          "iso2":"sk",
+          "collection":"slovakia",
+          "count":8
+       },
+       {
+          "title":"Slovenia",
+          "iso2":"si",
+          "collection":"slovenia",
+          "count":8
+       },
+       {
+          "title":"Spain (Juan Carlos I S1)",
+          "iso2":"es",
+          "collection":"spain-juan-carlos-s1",
+          "count":8
+       },
+       {
+          "title":"Spain (Juan Carlos I S2)",
+          "iso2":"es",
+          "collection":"spain-juan-carlos-s2",
+          "count":8
+       },
+       {
+          "title":"Spain (Felipe VI)",
+          "iso2":"es",
+          "collection":"spain-felipe",
+          "count":8
+       },
+       {
+          "title":"Vatican City (John Paul II)",
+          "iso2":"va",
+          "collection":"vatican-city-john-paul",
+          "count":8
+       },
+       {
+          "title":"Vatican City (SedeVacante)",
+          "iso2":"va",
+          "collection":"vatican-city-sedevacante",
+          "count":8
+       },
+       {
+          "title":"Vatican City (Benedict XVI)",
+          "iso2":"va",
+          "collection":"vatican-city-benedict",
+          "count":8
+       },
+       {
+          "title":"Vatican City (Francis S1)",
+          "iso2":"va",
+          "collection":"vatican-city-francis-s1",
+          "count":8
+       },
+       {
+          "title":"Vatican City (Francis S2)",
+          "iso2":"va",
+          "collection":"vatican-city-francis-s2",
+          "count":8
+       }
+    ],
+    "coins":[
+       {
+          "id":"coin-monaco-albert-0",
+          "collection":"monaco-albert",
+          "title":"€2",
+          "description":"<p>The second series shows, on the €2 and €1 coins, a portrait of HSH Prince Albert II. HSH Prince Albert’s monogram is depicted on the 10, 20 and 50-cent coins. The coat of arms of the Sovereign Princes of Monaco is the main feature of the design on the 1, 2 and 5-cent coins.</p><p>Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.</p>",
+          "icon":"/images/eu-countries/coin-monaco-albert-0-icon.jpg",
+          "img":"/images/eu-countries/coin-monaco-albert-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-monaco-albert-0-optimized.jpg"
+       },
+       {
+          "id":"coin-monaco-albert-1",
+          "collection":"monaco-albert",
+          "title":"€1",
+          "description":"<p>The second series shows, on the €2 and €1 coins, a portrait of HSH Prince Albert II. HSH Prince Albert’s monogram is depicted on the 10, 20 and 50-cent coins. The coat of arms of the Sovereign Princes of Monaco is the main feature of the design on the 1, 2 and 5-cent coins.</p>",
+          "icon":"/images/eu-countries/coin-monaco-albert-1-icon.jpg",
+          "img":"/images/eu-countries/coin-monaco-albert-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-monaco-albert-1-optimized.jpg"
+       },
+       {
+          "id":"coin-monaco-albert-2",
+          "collection":"monaco-albert",
+          "title":"50 cent",
+          "description":"<p>The second series shows, on the €2 and €1 coins, a portrait of HSH Prince Albert II. HSH Prince Albert’s monogram is depicted on the 10, 20 and 50-cent coins. The coat of arms of the Sovereign Princes of Monaco is the main feature of the design on the 1, 2 and 5-cent coins.</p>",
+          "icon":"/images/eu-countries/coin-monaco-albert-2-icon.jpg",
+          "img":"/images/eu-countries/coin-monaco-albert-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-monaco-albert-2-optimized.jpg"
+       },
+       {
+          "id":"coin-monaco-albert-3",
+          "collection":"monaco-albert",
+          "title":"20 cent",
+          "description":"<p>The second series shows, on the €2 and €1 coins, a portrait of HSH Prince Albert II. HSH Prince Albert’s monogram is depicted on the 10, 20 and 50-cent coins. The coat of arms of the Sovereign Princes of Monaco is the main feature of the design on the 1, 2 and 5-cent coins.</p>",
+          "icon":"/images/eu-countries/coin-monaco-albert-3-icon.jpg",
+          "img":"/images/eu-countries/coin-monaco-albert-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-monaco-albert-3-optimized.jpg"
+       },
+       {
+          "id":"coin-monaco-albert-4",
+          "collection":"monaco-albert",
+          "title":"10 cent",
+          "description":"<p>The second series shows, on the €2 and €1 coins, a portrait of HSH Prince Albert II. HSH Prince Albert’s monogram is depicted on the 10, 20 and 50-cent coins. The coat of arms of the Sovereign Princes of Monaco is the main feature of the design on the 1, 2 and 5-cent coins.</p>",
+          "icon":"/images/eu-countries/coin-monaco-albert-4-icon.jpg",
+          "img":"/images/eu-countries/coin-monaco-albert-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-monaco-albert-4-optimized.jpg"
+       },
+       {
+          "id":"coin-monaco-albert-5",
+          "collection":"monaco-albert",
+          "title":"5 cent",
+          "description":"<p>The second series shows, on the €2 and €1 coins, a portrait of HSH Prince Albert II. HSH Prince Albert’s monogram is depicted on the 10, 20 and 50-cent coins. The coat of arms of the Sovereign Princes of Monaco is the main feature of the design on the 1, 2 and 5-cent coins.</p>",
+          "icon":"/images/eu-countries/coin-monaco-albert-5-icon.jpg",
+          "img":"/images/eu-countries/coin-monaco-albert-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-monaco-albert-5-optimized.jpg"
+       },
+       {
+          "id":"coin-monaco-albert-6",
+          "collection":"monaco-albert",
+          "title":"2 cent",
+          "description":"<p>The second series shows, on the €2 and €1 coins, a portrait of HSH Prince Albert II. HSH Prince Albert’s monogram is depicted on the 10, 20 and 50-cent coins. The coat of arms of the Sovereign Princes of Monaco is the main feature of the design on the 1, 2 and 5-cent coins.</p>",
+          "icon":"/images/eu-countries/coin-monaco-albert-6-icon.jpg",
+          "img":"/images/eu-countries/coin-monaco-albert-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-monaco-albert-6-optimized.jpg"
+       },
+       {
+          "id":"coin-monaco-albert-7",
+          "collection":"monaco-albert",
+          "title":"1 cent",
+          "description":"<p>The second series shows, on the €2 and €1 coins, a portrait of HSH Prince Albert II. HSH Prince Albert’s monogram is depicted on the 10, 20 and 50-cent coins. The coat of arms of the Sovereign Princes of Monaco is the main feature of the design on the 1, 2 and 5-cent coins.</p>",
+          "icon":"/images/eu-countries/coin-monaco-albert-7-icon.jpg",
+          "img":"/images/eu-countries/coin-monaco-albert-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-monaco-albert-7-optimized.jpg"
+       },
+       {
+          "id":"coin-monaco-ranier-0",
+          "collection":"monaco-ranier",
+          "title":"€2",
+          "description":"<p>The first series depicts, on the €2 coin, HSH Prince Rainier III. A double portrait of HSH Prince Rainier III and HSH Hereditary Prince Albert appears on the €1 coin. The 10, 20 and 50-cent coins depict the Prince’s seal. The coat of arms of the Sovereign Princes of Monaco is shown on the 1, 2 and 5-cent coins.</p><p>Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.</p>",
+          "icon":"/images/eu-countries/coin-monaco-ranier-0-icon.jpg",
+          "img":"/images/eu-countries/coin-monaco-ranier-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-monaco-ranier-0-optimized.jpg"
+       },
+       {
+          "id":"coin-monaco-ranier-1",
+          "collection":"monaco-ranier",
+          "title":"€1",
+          "description":"<p>The first series depicts, on the €2 coin, HSH Prince Rainier III. A double portrait of HSH Prince Rainier III and HSH Hereditary Prince Albert appears on the €1 coin. The 10, 20 and 50-cent coins depict the Prince’s seal. The coat of arms of the Sovereign Princes of Monaco is shown on the 1, 2 and 5-cent coins.</p>",
+          "icon":"/images/eu-countries/coin-monaco-ranier-1-icon.jpg",
+          "img":"/images/eu-countries/coin-monaco-ranier-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-monaco-ranier-1-optimized.jpg"
+       },
+       {
+          "id":"coin-monaco-ranier-2",
+          "collection":"monaco-ranier",
+          "title":"50 cent",
+          "description":"<p>The first series depicts, on the €2 coin, HSH Prince Rainier III. A double portrait of HSH Prince Rainier III and HSH Hereditary Prince Albert appears on the €1 coin. The 10, 20 and 50-cent coins depict the Prince’s seal. The coat of arms of the Sovereign Princes of Monaco is shown on the 1, 2 and 5-cent coins.</p>",
+          "icon":"/images/eu-countries/coin-monaco-ranier-2-icon.jpg",
+          "img":"/images/eu-countries/coin-monaco-ranier-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-monaco-ranier-2-optimized.jpg"
+       },
+       {
+          "id":"coin-monaco-ranier-3",
+          "collection":"monaco-ranier",
+          "title":"20 cent",
+          "description":"<p>The first series depicts, on the €2 coin, HSH Prince Rainier III. A double portrait of HSH Prince Rainier III and HSH Hereditary Prince Albert appears on the €1 coin. The 10, 20 and 50-cent coins depict the Prince’s seal. The coat of arms of the Sovereign Princes of Monaco is shown on the 1, 2 and 5-cent coins.</p>",
+          "icon":"/images/eu-countries/coin-monaco-ranier-3-icon.jpg",
+          "img":"/images/eu-countries/coin-monaco-ranier-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-monaco-ranier-3-optimized.jpg"
+       },
+       {
+          "id":"coin-monaco-ranier-4",
+          "collection":"monaco-ranier",
+          "title":"10 cent",
+          "description":"<p>The first series depicts, on the €2 coin, HSH Prince Rainier III. A double portrait of HSH Prince Rainier III and HSH Hereditary Prince Albert appears on the €1 coin. The 10, 20 and 50-cent coins depict the Prince’s seal. The coat of arms of the Sovereign Princes of Monaco is shown on the 1, 2 and 5-cent coins.</p>",
+          "icon":"/images/eu-countries/coin-monaco-ranier-4-icon.jpg",
+          "img":"/images/eu-countries/coin-monaco-ranier-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-monaco-ranier-4-optimized.jpg"
+       },
+       {
+          "id":"coin-monaco-ranier-5",
+          "collection":"monaco-ranier",
+          "title":"5 cent",
+          "description":"<p>The first series depicts, on the €2 coin, HSH Prince Rainier III. A double portrait of HSH Prince Rainier III and HSH Hereditary Prince Albert appears on the €1 coin. The 10, 20 and 50-cent coins depict the Prince’s seal. The coat of arms of the Sovereign Princes of Monaco is shown on the 1, 2 and 5-cent coins.</p>",
+          "icon":"/images/eu-countries/coin-monaco-ranier-5-icon.jpg",
+          "img":"/images/eu-countries/coin-monaco-ranier-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-monaco-ranier-5-optimized.jpg"
+       },
+       {
+          "id":"coin-monaco-ranier-6",
+          "collection":"monaco-ranier",
+          "title":"2 cent",
+          "description":"<p>The first series depicts, on the €2 coin, HSH Prince Rainier III. A double portrait of HSH Prince Rainier III and HSH Hereditary Prince Albert appears on the €1 coin. The 10, 20 and 50-cent coins depict the Prince’s seal. The coat of arms of the Sovereign Princes of Monaco is shown on the 1, 2 and 5-cent coins.</p>",
+          "icon":"/images/eu-countries/coin-monaco-ranier-6-icon.jpg",
+          "img":"/images/eu-countries/coin-monaco-ranier-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-monaco-ranier-6-optimized.jpg"
+       },
+       {
+          "id":"coin-monaco-ranier-7",
+          "collection":"monaco-ranier",
+          "title":"1 cent",
+          "description":"<p>The first series depicts, on the €2 coin, HSH Prince Rainier III. A double portrait of HSH Prince Rainier III and HSH Hereditary Prince Albert appears on the €1 coin. The 10, 20 and 50-cent coins depict the Prince’s seal. The coat of arms of the Sovereign Princes of Monaco is shown on the 1, 2 and 5-cent coins.</p>",
+          "icon":"/images/eu-countries/coin-monaco-ranier-7-icon.jpg",
+          "img":"/images/eu-countries/coin-monaco-ranier-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-monaco-ranier-7-optimized.jpg"
+       },
+       {
+          "id":"coin-andorra-0",
+          "collection":"andorra",
+          "title":"€2",
+          "description":"<p>Andorra signed a Monetary Agreement with the European Union on 30 June 2011. As a result, Andorra can use the euro as its official currency and issue its own euro coins. All the coins feature the 12 stars of the European flag.</p><p>The €2 coin shows the coat of arms of Andorra with the motto \"virtus unita fortior\" (virtue united is stronger). Edge-lettering of the €2 coin: 2 **, repeated six times.</p>",
+          "icon":"/images/eu-countries/coin-andorra-0-icon.jpg",
+          "img":"/images/eu-countries/coin-andorra-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-andorra-0-optimized.jpg"
+       },
+       {
+          "id":"coin-andorra-1",
+          "collection":"andorra",
+          "title":"€1",
+          "description":"<p>Andorra signed a Monetary Agreement with the European Union on 30 June 2011. As a result, Andorra can use the euro as its official currency and issue its own euro coins. All the coins feature the 12 stars of the European flag.</p><p>The €1 coin features Casa de la Vall, the former seat of parliament and a building of cultural and historical interest.</p>",
+          "icon":"/images/eu-countries/coin-andorra-1-icon.jpg",
+          "img":"/images/eu-countries/coin-andorra-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-andorra-1-optimized.jpg"
+       },
+       {
+          "id":"coin-andorra-2",
+          "collection":"andorra",
+          "title":"50 cent",
+          "description":"<p>Andorra signed a Monetary Agreement with the European Union on 30 June 2011. As a result, Andorra can use the euro as its official currency and issue its own euro coins. All the coins feature the 12 stars of the European flag.</p><p>The 10, 20 and 50 cent coins show the Romanesque church of Santa Coloma.</p>",
+          "icon":"/images/eu-countries/coin-andorra-2-icon.jpg",
+          "img":"/images/eu-countries/coin-andorra-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-andorra-2-optimized.jpg"
+       },
+       {
+          "id":"coin-andorra-3",
+          "collection":"andorra",
+          "title":"20 cent",
+          "description":"<p>Andorra signed a Monetary Agreement with the European Union on 30 June 2011. As a result, Andorra can use the euro as its official currency and issue its own euro coins. All the coins feature the 12 stars of the European flag.</p><p>The 10, 20 and 50 cent coins show the Romanesque church of Santa Coloma.</p>",
+          "icon":"/images/eu-countries/coin-andorra-3-icon.jpg",
+          "img":"/images/eu-countries/coin-andorra-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-andorra-3-optimized.jpg"
+       },
+       {
+          "id":"coin-andorra-4",
+          "collection":"andorra",
+          "title":"10 cent",
+          "description":"<p>Andorra signed a Monetary Agreement with the European Union on 30 June 2011. As a result, Andorra can use the euro as its official currency and issue its own euro coins. All the coins feature the 12 stars of the European flag.</p><p>The 10, 20 and 50 cent coins show the Romanesque church of Santa Coloma.</p>",
+          "icon":"/images/eu-countries/coin-andorra-4-icon.jpg",
+          "img":"/images/eu-countries/coin-andorra-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-andorra-4-optimized.jpg"
+       },
+       {
+          "id":"coin-andorra-5",
+          "collection":"andorra",
+          "title":"5 cent",
+          "description":"<p>Andorra signed a Monetary Agreement with the European Union on 30 June 2011. As a result, Andorra can use the euro as its official currency and issue its own euro coins. All the coins feature the 12 stars of the European flag.</p><p>The 1, 2 and 5 cent coins show a Pyrenean chamois and a golden eagle.</p>",
+          "icon":"/images/eu-countries/coin-andorra-5-icon.jpg",
+          "img":"/images/eu-countries/coin-andorra-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-andorra-5-optimized.jpg"
+       },
+       {
+          "id":"coin-andorra-6",
+          "collection":"andorra",
+          "title":"2 cent",
+          "description":"<p>Andorra signed a Monetary Agreement with the European Union on 30 June 2011. As a result, Andorra can use the euro as its official currency and issue its own euro coins. All the coins feature the 12 stars of the European flag.</p><p>The 1, 2 and 5 cent coins show a Pyrenean chamois and a golden eagle.</p>",
+          "icon":"/images/eu-countries/coin-andorra-6-icon.jpg",
+          "img":"/images/eu-countries/coin-andorra-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-andorra-6-optimized.jpg"
+       },
+       {
+          "id":"coin-andorra-7",
+          "collection":"andorra",
+          "title":"1 cent",
+          "description":"<p>Andorra signed a Monetary Agreement with the European Union on 30 June 2011. As a result, Andorra can use the euro as its official currency and issue its own euro coins. All the coins feature the 12 stars of the European flag.</p><p>The 1, 2 and 5 cent coins show a Pyrenean chamois and a golden eagle.</p>",
+          "icon":"/images/eu-countries/coin-andorra-7-icon.jpg",
+          "img":"/images/eu-countries/coin-andorra-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-andorra-7-optimized.jpg"
+       },
+       {
+          "id":"coin-austria-0",
+          "collection":"austria",
+          "title":"€2",
+          "description":"<p>Austria chose to produce a series of coins illustrating flowers, architecture and famous people from its history. The designs were chosen by a national panel and public opinion poll. Austrian artist Josef Kaiser created the designs.</p><p>This coin bears a portrait of the pacifist Bertha von Suttner, a symbol of Austria's efforts over many decades to support peace. Edge lettering of the €2 coin: 2 EURO ***, repeated four times, alternately upright and inverted.</p>",
+          "icon":"/images/eu-countries/coin-austria-0-icon.jpg",
+          "img":"/images/eu-countries/coin-austria-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-austria-0-optimized.jpg"
+       },
+       {
+          "id":"coin-austria-1",
+          "collection":"austria",
+          "title":"€1",
+          "description":"<p>Austria chose to produce a series of coins illustrating flowers, architecture and famous people from its history. The designs were chosen by a national panel and public opinion poll. Austrian artist Josef Kaiser created the designs.</p><p>Depicted on this coin is Wolfgang Amadeus Mozart, the famous Austrian composer, in reference to Austria as a land of music.</p>",
+          "icon":"/images/eu-countries/coin-austria-1-icon.jpg",
+          "img":"/images/eu-countries/coin-austria-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-austria-1-optimized.jpg"
+       },
+       {
+          "id":"coin-austria-2",
+          "collection":"austria",
+          "title":"50 cent",
+          "description":"<p>Austria chose to produce a series of coins illustrating flowers, architecture and famous people from its history. The designs were chosen by a national panel and public opinion poll. Austrian artist Josef Kaiser created the designs.</p><p>This coin shows the secession building in Vienna, illustrating the birth of art nouveau in Austria. The building symbolises the birth of a new age and represents a bridge to a new monetary era.</p>",
+          "icon":"/images/eu-countries/coin-austria-2-icon.jpg",
+          "img":"/images/eu-countries/coin-austria-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-austria-2-optimized.jpg"
+       },
+       {
+          "id":"coin-austria-3",
+          "collection":"austria",
+          "title":"20 cent",
+          "description":"<p>Austria chose to produce a series of coins illustrating flowers, architecture and famous people from its history. The designs were chosen by a national panel and public opinion poll. Austrian artist Josef Kaiser created the designs.</p><p>This design features the Belvedere Palace, one of the most beautiful baroque palaces in Austria. It was here that the treaty re-establishing the sovereignty of Austria was signed in 1955, making its name synonymous with freedom.</p>",
+          "icon":"/images/eu-countries/coin-austria-3-icon.jpg",
+          "img":"/images/eu-countries/coin-austria-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-austria-3-optimized.jpg"
+       },
+       {
+          "id":"coin-austria-4",
+          "collection":"austria",
+          "title":"10 cent",
+          "description":"<p>Austria chose to produce a series of coins illustrating flowers, architecture and famous people from its history. The designs were chosen by a national panel and public opinion poll. Austrian artist Josef Kaiser created the designs.</p><p>St. Stephen's Cathedral, one of the jewels of Viennese Gothic architecture and a popular tourist venue, is depicted on this coin.</p>",
+          "icon":"/images/eu-countries/coin-austria-4-icon.jpg",
+          "img":"/images/eu-countries/coin-austria-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-austria-4-optimized.jpg"
+       },
+       {
+          "id":"coin-austria-5",
+          "collection":"austria",
+          "title":"5 cent",
+          "description":"<p>Austria chose to produce a series of coins illustrating flowers, architecture and famous people from its history. The designs were chosen by a national panel and public opinion poll. Austrian artist Josef Kaiser created the designs.</p><p>This coin features alpine primroses, as part of a floral series, symbolising a duty to the environment and the part Austria is playing in the development of a Community environmental policy.</p>",
+          "icon":"/images/eu-countries/coin-austria-5-icon.jpg",
+          "img":"/images/eu-countries/coin-austria-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-austria-5-optimized.jpg"
+       },
+       {
+          "id":"coin-austria-6",
+          "collection":"austria",
+          "title":"2 cent",
+          "description":"<p>Austria chose to produce a series of coins illustrating flowers, architecture and famous people from its history. The designs were chosen by a national panel and public opinion poll. Austrian artist Josef Kaiser created the designs.</p><p>This coin features an edelweiss, as part of a floral series, symbolising a duty to the environment and the part Austria is playing in the development of a Community environmental policy.</p>",
+          "icon":"/images/eu-countries/coin-austria-6-icon.jpg",
+          "img":"/images/eu-countries/coin-austria-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-austria-6-optimized.jpg"
+       },
+       {
+          "id":"coin-austria-7",
+          "collection":"austria",
+          "title":"1 cent",
+          "description":"<p>Austria chose to produce a series of coins illustrating flowers, architecture and famous people from its history. The designs were chosen by a national panel and public opinion poll. Austrian artist Josef Kaiser created the designs.</p><p>This coin features a gentian, as part of a floral series, symbolising a duty to the environment and the part Austria is playing in the development of a Community environmental policy.</p>",
+          "icon":"/images/eu-countries/coin-austria-7-icon.jpg",
+          "img":"/images/eu-countries/coin-austria-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-austria-7-optimized.jpg"
+       },
+       {
+          "id":"coin-cyprus-0",
+          "collection":"cyprus",
+          "title":"€2",
+          "description":"<p>The €1 and €2 coins depict a cruciform idol from the Chalcolithic period (3000 BC). This characteristic example of the island's prehistoric art reflects Cyprus's place at the heart of civilisation and antiquity. </p>",
+          "icon":"/images/eu-countries/coin-cyprus-0-icon.jpg",
+          "img":"/images/eu-countries/coin-cyprus-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-cyprus-0-optimized.jpg"
+       },
+       {
+          "id":"coin-cyprus-1",
+          "collection":"cyprus",
+          "title":"€1",
+          "description":"<p>The €1 and €2 coins depict a cruciform idol from the Chalcolithic period (3000 BC). This characteristic example of the island's prehistoric art reflects Cyprus's place at the heart of civilisation and antiquity. </p>",
+          "icon":"/images/eu-countries/coin-cyprus-1-icon.jpg",
+          "img":"/images/eu-countries/coin-cyprus-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-cyprus-1-optimized.jpg"
+       },
+       {
+          "id":"coin-cyprus-2",
+          "collection":"cyprus",
+          "title":"50 cent",
+          "description":"<p>Featured on the 10, 20 and 50-cent coins is the Kyrenia ship, a trading vessel which dates back to the fourth century BC and a symbol of Cyprus's seafaring history and its importance as a centre of trade.  </p>",
+          "icon":"/images/eu-countries/coin-cyprus-2-icon.jpg",
+          "img":"/images/eu-countries/coin-cyprus-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-cyprus-2-optimized.jpg"
+       },
+       {
+          "id":"coin-cyprus-3",
+          "collection":"cyprus",
+          "title":"20 cent",
+          "description":"<p>Featured on the 10, 20 and 50-cent coins is the Kyrenia ship, a trading vessel which dates back to the fourth century BC and a symbol of Cyprus's seafaring history and its importance as a centre of trade.  </p>",
+          "icon":"/images/eu-countries/coin-cyprus-3-icon.jpg",
+          "img":"/images/eu-countries/coin-cyprus-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-cyprus-3-optimized.jpg"
+       },
+       {
+          "id":"coin-cyprus-4",
+          "collection":"cyprus",
+          "title":"10 cent",
+          "description":"<p>Featured on the 10, 20 and 50-cent coins is the Kyrenia ship, a trading vessel which dates back to the fourth century BC and a symbol of Cyprus's seafaring history and its importance as a centre of trade.  </p>",
+          "icon":"/images/eu-countries/coin-cyprus-4-icon.jpg",
+          "img":"/images/eu-countries/coin-cyprus-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-cyprus-4-optimized.jpg"
+       },
+       {
+          "id":"coin-cyprus-5",
+          "collection":"cyprus",
+          "title":"5 cent",
+          "description":"<p>The 1, 2 and 5-cent coins show the moufflon, a species of wild sheep found on Cyprus and representative of the island's wildlife.  </p>",
+          "icon":"/images/eu-countries/coin-cyprus-5-icon.jpg",
+          "img":"/images/eu-countries/coin-cyprus-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-cyprus-5-optimized.jpg"
+       },
+       {
+          "id":"coin-cyprus-6",
+          "collection":"cyprus",
+          "title":"2 cent",
+          "description":"<p>The 1, 2 and 5-cent coins show the moufflon, a species of wild sheep found on Cyprus and representative of the island's wildlife.  </p>",
+          "icon":"/images/eu-countries/coin-cyprus-6-icon.jpg",
+          "img":"/images/eu-countries/coin-cyprus-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-cyprus-6-optimized.jpg"
+       },
+       {
+          "id":"coin-cyprus-7",
+          "collection":"cyprus",
+          "title":"1 cent",
+          "description":"<p>The 1, 2 and 5-cent coins show the moufflon, a species of wild sheep found on Cyprus and representative of the island's wildlife.  </p>",
+          "icon":"/images/eu-countries/coin-cyprus-7-icon.jpg",
+          "img":"/images/eu-countries/coin-cyprus-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-cyprus-7-optimized.jpg"
+       },
+       {
+          "id":"coin-estonia-0",
+          "collection":"estonia",
+          "title":"€2",
+          "description":"<p>The design for the national side of Estonia’s coins is the same for all denominations. It features a geographical image of Estonia and the word \"Eesti\", which means \"Estonia\".</p>",
+          "icon":"/images/eu-countries/coin-estonia-0-icon.jpg",
+          "img":"/images/eu-countries/coin-estonia-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-estonia-0-optimized.jpg"
+       },
+       {
+          "id":"coin-estonia-1",
+          "collection":"estonia",
+          "title":"€1",
+          "description":"<p>The design for the national side of Estonia’s coins is the same for all denominations. It features a geographical image of Estonia and the word \"Eesti\", which means \"Estonia\".</p>",
+          "icon":"/images/eu-countries/coin-estonia-1-icon.jpg",
+          "img":"/images/eu-countries/coin-estonia-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-estonia-1-optimized.jpg"
+       },
+       {
+          "id":"coin-estonia-2",
+          "collection":"estonia",
+          "title":"50 cent",
+          "description":"<p>The design for the national side of Estonia’s coins is the same for all denominations. It features a geographical image of Estonia and the word \"Eesti\", which means \"Estonia\".</p>",
+          "icon":"/images/eu-countries/coin-estonia-2-icon.jpg",
+          "img":"/images/eu-countries/coin-estonia-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-estonia-2-optimized.jpg"
+       },
+       {
+          "id":"coin-estonia-3",
+          "collection":"estonia",
+          "title":"20 cent",
+          "description":"<p>The design for the national side of Estonia’s coins is the same for all denominations. It features a geographical image of Estonia and the word \"Eesti\", which means \"Estonia\".</p>",
+          "icon":"/images/eu-countries/coin-estonia-3-icon.jpg",
+          "img":"/images/eu-countries/coin-estonia-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-estonia-3-optimized.jpg"
+       },
+       {
+          "id":"coin-estonia-4",
+          "collection":"estonia",
+          "title":"10 cent",
+          "description":"<p>The design for the national side of Estonia’s coins is the same for all denominations. It features a geographical image of Estonia and the word \"Eesti\", which means \"Estonia\".</p>",
+          "icon":"/images/eu-countries/coin-estonia-4-icon.jpg",
+          "img":"/images/eu-countries/coin-estonia-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-estonia-4-optimized.jpg"
+       },
+       {
+          "id":"coin-estonia-5",
+          "collection":"estonia",
+          "title":"5 cent",
+          "description":"<p>The design for the national side of Estonia’s coins is the same for all denominations. It features a geographical image of Estonia and the word \"Eesti\", which means \"Estonia\".</p>",
+          "icon":"/images/eu-countries/coin-estonia-5-icon.jpg",
+          "img":"/images/eu-countries/coin-estonia-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-estonia-5-optimized.jpg"
+       },
+       {
+          "id":"coin-estonia-6",
+          "collection":"estonia",
+          "title":"2 cent",
+          "description":"<p>The design for the national side of Estonia’s coins is the same for all denominations. It features a geographical image of Estonia and the word \"Eesti\", which means \"Estonia\".</p>",
+          "icon":"/images/eu-countries/coin-estonia-6-icon.jpg",
+          "img":"/images/eu-countries/coin-estonia-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-estonia-6-optimized.jpg"
+       },
+       {
+          "id":"coin-estonia-7",
+          "collection":"estonia",
+          "title":"1 cent",
+          "description":"<p>The design for the national side of Estonia’s coins is the same for all denominations. It features a geographical image of Estonia and the word \"Eesti\", which means \"Estonia\".</p>",
+          "icon":"/images/eu-countries/coin-estonia-7-icon.jpg",
+          "img":"/images/eu-countries/coin-estonia-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-estonia-7-optimized.jpg"
+       },
+       {
+          "id":"coin-finland-0",
+          "collection":"finland",
+          "title":"€2",
+          "description":"<p>Finland chose three designs based upon motifs similar to those used before on national coins.</p><p>The motif on this coin comprises cloudberries and cloudberry flowers in a design by Raimo Heino. Edge lettering of the €2 coin: SUOMI FINLAND ***, where the * represents a lion's head.</p>",
+          "icon":"/images/eu-countries/coin-finland-0-icon.jpg",
+          "img":"/images/eu-countries/coin-finland-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-finland-0-optimized.jpg"
+       },
+       {
+          "id":"coin-finland-1",
+          "collection":"finland",
+          "title":"€1",
+          "description":"<p>Finland chose three designs based upon motifs similar to those used before on national coins.</p><p>The artist Pertti Mäkinen created a motif depicting two flying swans for this coin. The design was taken from his competition entry for a coin to commemorate the 80th anniversary of the independence of Finland.</p>",
+          "icon":"/images/eu-countries/coin-finland-1-icon.jpg",
+          "img":"/images/eu-countries/coin-finland-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-finland-1-optimized.jpg"
+       },
+       {
+          "id":"coin-finland-2",
+          "collection":"finland",
+          "title":"50 cent",
+          "description":"<p>Finland chose three designs based upon motifs similar to those used before on national coins.</p><p>1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.</p>",
+          "icon":"/images/eu-countries/coin-finland-2-icon.jpg",
+          "img":"/images/eu-countries/coin-finland-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-finland-2-optimized.jpg"
+       },
+       {
+          "id":"coin-finland-3",
+          "collection":"finland",
+          "title":"20 cent",
+          "description":"<p>Finland chose three designs based upon motifs similar to those used before on national coins.</p><p>1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.</p>",
+          "icon":"/images/eu-countries/coin-finland-3-icon.jpg",
+          "img":"/images/eu-countries/coin-finland-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-finland-3-optimized.jpg"
+       },
+       {
+          "id":"coin-finland-4",
+          "collection":"finland",
+          "title":"10 cent",
+          "description":"<p>Finland chose three designs based upon motifs similar to those used before on national coins.</p><p>1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.</p>",
+          "icon":"/images/eu-countries/coin-finland-4-icon.jpg",
+          "img":"/images/eu-countries/coin-finland-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-finland-4-optimized.jpg"
+       },
+       {
+          "id":"coin-finland-5",
+          "collection":"finland",
+          "title":"5 cent",
+          "description":"<p>Finland chose three designs based upon motifs similar to those used before on national coins.</p><p>1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.</p>",
+          "icon":"/images/eu-countries/coin-finland-5-icon.jpg",
+          "img":"/images/eu-countries/coin-finland-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-finland-5-optimized.jpg"
+       },
+       {
+          "id":"coin-finland-6",
+          "collection":"finland",
+          "title":"2 cent",
+          "description":"<p>Finland chose three designs based upon motifs similar to those used before on national coins.</p><p>1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.</p>",
+          "icon":"/images/eu-countries/coin-finland-6-icon.jpg",
+          "img":"/images/eu-countries/coin-finland-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-finland-6-optimized.jpg"
+       },
+       {
+          "id":"coin-finland-7",
+          "collection":"finland",
+          "title":"1 cent",
+          "description":"<p>Finland chose three designs based upon motifs similar to those used before on national coins.</p><p>1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.</p>",
+          "icon":"/images/eu-countries/coin-finland-7-icon.jpg",
+          "img":"/images/eu-countries/coin-finland-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-finland-7-optimized.jpg"
+       },
+       {
+          "id":"coin-germany-0",
+          "collection":"germany",
+          "title":"€2",
+          "description":"<p>German officials and experts in numismatics chose three different designs for their euro coins.</p><p>€1 and €2 coins: the traditional symbol of German sovereignty, the eagle, surrounded by the stars of Europe, appears on these coins. This motif was designed by Heinz and Sneschana Russewa-Hoyer. Edge lettering of the €2 coin: EINIGKEIT UND RECHT UND FREIHEIT (unity, justice and freedom) and the emblem of the Federal Eagle.</p>",
+          "icon":"/images/eu-countries/coin-germany-0-icon.jpg",
+          "img":"/images/eu-countries/coin-germany-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-germany-0-optimized.jpg"
+       },
+       {
+          "id":"coin-germany-1",
+          "collection":"germany",
+          "title":"€1",
+          "description":"<p>German officials and experts in numismatics chose three different designs for their euro coins.</p><p>€1 and €2 coins: the traditional symbol of German sovereignty, the eagle, surrounded by the stars of Europe, appears on these coins. This motif was designed by Heinz and Sneschana Russewa-Hoyer.</p>",
+          "icon":"/images/eu-countries/coin-germany-1-icon.jpg",
+          "img":"/images/eu-countries/coin-germany-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-germany-1-optimized.jpg"
+       },
+       {
+          "id":"coin-germany-2",
+          "collection":"germany",
+          "title":"50 cent",
+          "description":"<p>German officials and experts in numismatics chose three different designs for their euro coins.</p><p>10, 20 and 50-cent coins: the Brandenburg Gate, a symbol of the division of Germany and its subsequent reunification, is the motif used on these coins. The perspective of the design, by Reinhard Heinsdorff, emphasises the opening of the gate, stressing the unification of Germany and Europe.  </p>",
+          "icon":"/images/eu-countries/coin-germany-2-icon.jpg",
+          "img":"/images/eu-countries/coin-germany-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-germany-2-optimized.jpg"
+       },
+       {
+          "id":"coin-germany-3",
+          "collection":"germany",
+          "title":"20 cent",
+          "description":"<p>German officials and experts in numismatics chose three different designs for their euro coins.</p><p>10, 20 and 50-cent coins: the Brandenburg Gate, a symbol of the division of Germany and its subsequent reunification, is the motif used on these coins. The perspective of the design, by Reinhard Heinsdorff, emphasises the opening of the gate, stressing the unification of Germany and Europe. </p>",
+          "icon":"/images/eu-countries/coin-germany-3-icon.jpg",
+          "img":"/images/eu-countries/coin-germany-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-germany-3-optimized.jpg"
+       },
+       {
+          "id":"coin-germany-4",
+          "collection":"germany",
+          "title":"10 cent",
+          "description":"<p>German officials and experts in numismatics chose three different designs for their euro coins.</p><p>10, 20 and 50-cent coins: the Brandenburg Gate, a symbol of the division of Germany and its subsequent reunification, is the motif used on these coins. The perspective of the design, by Reinhard Heinsdorff, emphasises the opening of the gate, stressing the unification of Germany and Europe.  </p>",
+          "icon":"/images/eu-countries/coin-germany-4-icon.jpg",
+          "img":"/images/eu-countries/coin-germany-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-germany-4-optimized.jpg"
+       },
+       {
+          "id":"coin-germany-5",
+          "collection":"germany",
+          "title":"5 cent",
+          "description":"<p>German officials and experts in numismatics chose three different designs for their euro coins.</p><p>1, 2 and 5-cent coins: the oak twig, reminiscent of that found on the former German pfennig coins, provides the motif for these coins. It was designed by Professor Rolf Lederbogen.  </p>",
+          "icon":"/images/eu-countries/coin-germany-5-icon.jpg",
+          "img":"/images/eu-countries/coin-germany-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-germany-5-optimized.jpg"
+       },
+       {
+          "id":"coin-germany-6",
+          "collection":"germany",
+          "title":"2 cent",
+          "description":"<p>German officials and experts in numismatics chose three different designs for their euro coins.</p><p>1, 2 and 5-cent coins: the oak twig, reminiscent of that found on the former German pfennig coins, provides the motif for these coins. It was designed by Professor Rolf Lederbogen.  </p>",
+          "icon":"/images/eu-countries/coin-germany-6-icon.jpg",
+          "img":"/images/eu-countries/coin-germany-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-germany-6-optimized.jpg"
+       },
+       {
+          "id":"coin-germany-7",
+          "collection":"germany",
+          "title":"1 cent",
+          "description":"<p>German officials and experts in numismatics chose three different designs for their euro coins.</p><p>1, 2 and 5-cent coins: the oak twig, reminiscent of that found on the former German pfennig coins, provides the motif for these coins. It was designed by Professor Rolf Lederbogen. </p>",
+          "icon":"/images/eu-countries/coin-germany-7-icon.jpg",
+          "img":"/images/eu-countries/coin-germany-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-germany-7-optimized.jpg"
+       },
+       {
+          "id":"coin-greece-0",
+          "collection":"greece",
+          "title":"€2",
+          "description":"<p>The Minister for the National Economy and the Governor of the Bank of Greece chose the designs for their euro coins from a set of proposals presented by a national technical and artistic committee. The designer of the winning motifs was sculptor Georges Stamatopoulos, sponsored by the Bank of Greece. There is a separate design for each denomination.</p><p>This coin depicts a scene from a mosaic in Sparta (third century AD), showing Europa being abducted by Zeus, who has taken the form of a bull. Europa is a figure from Greek mythology after whom Europe was named. Edge lettering of the €2 coin: EΛΛHNIKH ΔHMOKPATIA * (Hellenic Republic).   </p>",
+          "icon":"/images/eu-countries/coin-greece-0-icon.jpg",
+          "img":"/images/eu-countries/coin-greece-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-greece-0-optimized.jpg"
+       },
+       {
+          "id":"coin-greece-1",
+          "collection":"greece",
+          "title":"€1",
+          "description":"<p>The Minister for the National Economy and the Governor of the Bank of Greece chose the designs for their euro coins from a set of proposals presented by a national technical and artistic committee. The designer of the winning motifs was sculptor Georges Stamatopoulos, sponsored by the Bank of Greece. There is a separate design for each denomination.</p><p>The image of the owl featured in this design was copied from an ancient Athenian 4-drachma coin (fifth century BC).  </p>",
+          "icon":"/images/eu-countries/coin-greece-1-icon.jpg",
+          "img":"/images/eu-countries/coin-greece-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-greece-1-optimized.jpg"
+       },
+       {
+          "id":"coin-greece-2",
+          "collection":"greece",
+          "title":"50 cent",
+          "description":"<p>The Minister for the National Economy and the Governor of the Bank of Greece chose the designs for their euro coins from a set of proposals presented by a national technical and artistic committee. The designer of the winning motifs was sculptor Georges Stamatopoulos, sponsored by the Bank of Greece. There is a separate design for each denomination.</p><p>Eleftherios Venizelos (1864-1936), one of Greece's most prominent political figures, is shown on this coin. He was a pioneer in social reform, a renowned diplomat and played a key role in modernising the Greek state and liberating Northern Greece and the Aegean islands.  </p>",
+          "icon":"/images/eu-countries/coin-greece-2-icon.jpg",
+          "img":"/images/eu-countries/coin-greece-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-greece-2-optimized.jpg"
+       },
+       {
+          "id":"coin-greece-3",
+          "collection":"greece",
+          "title":"20 cent",
+          "description":"<p>The Minister for the National Economy and the Governor of the Bank of Greece chose the designs for their euro coins from a set of proposals presented by a national technical and artistic committee. The designer of the winning motifs was sculptor Georges Stamatopoulos, sponsored by the Bank of Greece. There is a separate design for each denomination.</p><p>This coin commemorates Ioannis Capodistrias (1776-1831), a leading national and European politician and diplomat who became the first Governor of Greece (1830-31) following the Greek War of Independence (1821-27).  </p>",
+          "icon":"/images/eu-countries/coin-greece-3-icon.jpg",
+          "img":"/images/eu-countries/coin-greece-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-greece-3-optimized.jpg"
+       },
+       {
+          "id":"coin-greece-4",
+          "collection":"greece",
+          "title":"10 cent",
+          "description":"<p>The Minister for the National Economy and the Governor of the Bank of Greece chose the designs for their euro coins from a set of proposals presented by a national technical and artistic committee. The designer of the winning motifs was sculptor Georges Stamatopoulos, sponsored by the Bank of Greece. There is a separate design for each denomination.</p><p>Rigas Fereos (Velestinlis) (1757-98) is featured on this coin. He was a forerunner and leading figure of the Greek enlightenment, as well as a visionary and herald of Balkan liberation from Ottoman rule.  </p>",
+          "icon":"/images/eu-countries/coin-greece-4-icon.jpg",
+          "img":"/images/eu-countries/coin-greece-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-greece-4-optimized.jpg"
+       },
+       {
+          "id":"coin-greece-5",
+          "collection":"greece",
+          "title":"5 cent",
+          "description":"<p>The Minister for the National Economy and the Governor of the Bank of Greece chose the designs for their euro coins from a set of proposals presented by a national technical and artistic committee. The designer of the winning motifs was sculptor Georges Stamatopoulos, sponsored by the Bank of Greece. There is a separate design for each denomination.</p><p>This coin shows a modern sea-going tanker, reflecting the innovative spirit of Greek shipping. </p>",
+          "icon":"/images/eu-countries/coin-greece-5-icon.jpg",
+          "img":"/images/eu-countries/coin-greece-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-greece-5-optimized.jpg"
+       },
+       {
+          "id":"coin-greece-6",
+          "collection":"greece",
+          "title":"2 cent",
+          "description":"<p>The Minister for the National Economy and the Governor of the Bank of Greece chose the designs for their euro coins from a set of proposals presented by a national technical and artistic committee. The designer of the winning motifs was sculptor Georges Stamatopoulos, sponsored by the Bank of Greece. There is a separate design for each denomination.</p><p>Depicted on this coin is a corvette, a type of ship used during the Greek War of Independence (1821-27).  </p>",
+          "icon":"/images/eu-countries/coin-greece-6-icon.jpg",
+          "img":"/images/eu-countries/coin-greece-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-greece-6-optimized.jpg"
+       },
+       {
+          "id":"coin-greece-7",
+          "collection":"greece",
+          "title":"1 cent",
+          "description":"<p>The Minister for the National Economy and the Governor of the Bank of Greece chose the designs for their euro coins from a set of proposals presented by a national technical and artistic committee. The designer of the winning motifs was sculptor Georges Stamatopoulos, sponsored by the Bank of Greece. There is a separate design for each denomination.</p><p>This design features an advanced model of an Athenian trireme, the largest warship afloat for more than 200 years, dating from the time of the Athenian democracy (fifth century BC).  </p>",
+          "icon":"/images/eu-countries/coin-greece-7-icon.jpg",
+          "img":"/images/eu-countries/coin-greece-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-greece-7-optimized.jpg"
+       },
+       {
+          "id":"coin-ireland-0",
+          "collection":"ireland",
+          "title":"€2",
+          "description":"<p>The Government of Ireland decided on a single national design for all Irish coin denominations. They show the Celtic harp, a traditional symbol of Ireland, decorated with the year of issue and the inscription \"Éire\" − the Irish word for Ireland. The harp shown was designed by Jarlath Hayes.</p><p>Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.</p>",
+          "icon":"/images/eu-countries/coin-ireland-0-icon.jpg",
+          "img":"/images/eu-countries/coin-ireland-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-ireland-0-optimized.jpg"
+       },
+       {
+          "id":"coin-ireland-1",
+          "collection":"ireland",
+          "title":"€1",
+          "description":"<p>The Government of Ireland decided on a single national design for all Irish coin denominations. They show the Celtic harp, a traditional symbol of Ireland, decorated with the year of issue and the inscription \"Éire\" − the Irish word for Ireland. The harp shown was designed by Jarlath Hayes.</p><p></p>",
+          "icon":"/images/eu-countries/coin-ireland-1-icon.jpg",
+          "img":"/images/eu-countries/coin-ireland-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-ireland-1-optimized.jpg"
+       },
+       {
+          "id":"coin-ireland-2",
+          "collection":"ireland",
+          "title":"50 cent",
+          "description":"<p>The Government of Ireland decided on a single national design for all Irish coin denominations. They show the Celtic harp, a traditional symbol of Ireland, decorated with the year of issue and the inscription \"Éire\" − the Irish word for Ireland. The harp shown was designed by Jarlath Hayes.</p><p></p>",
+          "icon":"/images/eu-countries/coin-ireland-2-icon.jpg",
+          "img":"/images/eu-countries/coin-ireland-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-ireland-2-optimized.jpg"
+       },
+       {
+          "id":"coin-ireland-3",
+          "collection":"ireland",
+          "title":"20 cent",
+          "description":"<p>The Government of Ireland decided on a single national design for all Irish coin denominations. They show the Celtic harp, a traditional symbol of Ireland, decorated with the year of issue and the inscription \"Éire\" − the Irish word for Ireland. The harp shown was designed by Jarlath Hayes.</p><p></p>",
+          "icon":"/images/eu-countries/coin-ireland-3-icon.jpg",
+          "img":"/images/eu-countries/coin-ireland-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-ireland-3-optimized.jpg"
+       },
+       {
+          "id":"coin-ireland-4",
+          "collection":"ireland",
+          "title":"10 cent",
+          "description":"<p>The Government of Ireland decided on a single national design for all Irish coin denominations. They show the Celtic harp, a traditional symbol of Ireland, decorated with the year of issue and the inscription \"Éire\" − the Irish word for Ireland. The harp shown was designed by Jarlath Hayes.</p><p></p>",
+          "icon":"/images/eu-countries/coin-ireland-4-icon.jpg",
+          "img":"/images/eu-countries/coin-ireland-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-ireland-4-optimized.jpg"
+       },
+       {
+          "id":"coin-ireland-5",
+          "collection":"ireland",
+          "title":"5 cent",
+          "description":"<p>The Government of Ireland decided on a single national design for all Irish coin denominations. They show the Celtic harp, a traditional symbol of Ireland, decorated with the year of issue and the inscription \"Éire\" − the Irish word for Ireland. The harp shown was designed by Jarlath Hayes.</p><p></p>",
+          "icon":"/images/eu-countries/coin-ireland-5-icon.jpg",
+          "img":"/images/eu-countries/coin-ireland-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-ireland-5-optimized.jpg"
+       },
+       {
+          "id":"coin-ireland-6",
+          "collection":"ireland",
+          "title":"2 cent",
+          "description":"<p>The Government of Ireland decided on a single national design for all Irish coin denominations. They show the Celtic harp, a traditional symbol of Ireland, decorated with the year of issue and the inscription \"Éire\" − the Irish word for Ireland. The harp shown was designed by Jarlath Hayes.</p><p></p>",
+          "icon":"/images/eu-countries/coin-ireland-6-icon.jpg",
+          "img":"/images/eu-countries/coin-ireland-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-ireland-6-optimized.jpg"
+       },
+       {
+          "id":"coin-ireland-7",
+          "collection":"ireland",
+          "title":"1 cent",
+          "description":"<p>The Government of Ireland decided on a single national design for all Irish coin denominations. They show the Celtic harp, a traditional symbol of Ireland, decorated with the year of issue and the inscription \"Éire\" − the Irish word for Ireland. The harp shown was designed by Jarlath Hayes.</p><p></p>",
+          "icon":"/images/eu-countries/coin-ireland-7-icon.jpg",
+          "img":"/images/eu-countries/coin-ireland-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-ireland-7-optimized.jpg"
+       },
+       {
+          "id":"coin-italy-0",
+          "collection":"italy",
+          "title":"€2",
+          "description":"<p>In Italy, the euro coin designs were subject to scrutiny by a national technical and artistic committee before being presented to the nation on RAI UNO, Italy's largest national television station. A different design has been selected for each denomination, chosen from masterpieces by Italy's famous artists.</p><p>Depicted on this coin is a portrait drawn by Raphaël of Dante Alighieri, housed in the Pope Julius II Wing of the Vatican City Palace. Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted. </p>",
+          "icon":"/images/eu-countries/coin-italy-0-icon.jpg",
+          "img":"/images/eu-countries/coin-italy-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-italy-0-optimized.jpg"
+       },
+       {
+          "id":"coin-italy-1",
+          "collection":"italy",
+          "title":"€1",
+          "description":"<p>In Italy, the euro coin designs were subject to scrutiny by a national technical and artistic committee before being presented to the nation on RAI UNO, Italy's largest national television station. A different design has been selected for each denomination, chosen from masterpieces by Italy's famous artists.</p><p>This coin shows the famous drawing by Leonardo da Vinci, displayed in the gallery of the Academy in Venice, illustrating the ideal proportions of the human body.  </p>",
+          "icon":"/images/eu-countries/coin-italy-1-icon.jpg",
+          "img":"/images/eu-countries/coin-italy-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-italy-1-optimized.jpg"
+       },
+       {
+          "id":"coin-italy-2",
+          "collection":"italy",
+          "title":"50 cent",
+          "description":"<p>In Italy, the euro coin designs were subject to scrutiny by a national technical and artistic committee before being presented to the nation on RAI UNO, Italy's largest national television station. A different design has been selected for each denomination, chosen from masterpieces by Italy's famous artists.</p><p>The statue of Emperor Marcus Aurelius on horseback is the main feature on this coin. </p>",
+          "icon":"/images/eu-countries/coin-italy-2-icon.jpg",
+          "img":"/images/eu-countries/coin-italy-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-italy-2-optimized.jpg"
+       },
+       {
+          "id":"coin-italy-3",
+          "collection":"italy",
+          "title":"20 cent",
+          "description":"<p>In Italy, the euro coin designs were subject to scrutiny by a national technical and artistic committee before being presented to the nation on RAI UNO, Italy's largest national television station. A different design has been selected for each denomination, chosen from masterpieces by Italy's famous artists.</p><p>Portrayed on this coin is a sculpture by Umberto Boccioni, leader of the Italian futurist school.  </p>",
+          "icon":"/images/eu-countries/coin-italy-3-icon.jpg",
+          "img":"/images/eu-countries/coin-italy-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-italy-3-optimized.jpg"
+       },
+       {
+          "id":"coin-italy-4",
+          "collection":"italy",
+          "title":"10 cent",
+          "description":"<p>In Italy, the euro coin designs were subject to scrutiny by a national technical and artistic committee before being presented to the nation on RAI UNO, Italy's largest national television station. A different design has been selected for each denomination, chosen from masterpieces by Italy's famous artists.</p><p>This coin commemorates one of the greatest triumphs in Italian art. It shows one of the most famous works in the world, the \"Birth of Venus\" by Sandro Botticelli.  </p>",
+          "icon":"/images/eu-countries/coin-italy-4-icon.jpg",
+          "img":"/images/eu-countries/coin-italy-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-italy-4-optimized.jpg"
+       },
+       {
+          "id":"coin-italy-5",
+          "collection":"italy",
+          "title":"5 cent",
+          "description":"<p>In Italy, the euro coin designs were subject to scrutiny by a national technical and artistic committee before being presented to the nation on RAI UNO, Italy's largest national television station. A different design has been selected for each denomination, chosen from masterpieces by Italy's famous artists.</p><p>This design features the Flavius amphitheatre, which Emperor Vespasian began building around 75 AD and Emperor Titus inaugurated in 80 AD.  </p>",
+          "icon":"/images/eu-countries/coin-italy-5-icon.jpg",
+          "img":"/images/eu-countries/coin-italy-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-italy-5-optimized.jpg"
+       },
+       {
+          "id":"coin-italy-6",
+          "collection":"italy",
+          "title":"2 cent",
+          "description":"<p>In Italy, the euro coin designs were subject to scrutiny by a national technical and artistic committee before being presented to the nation on RAI UNO, Italy's largest national television station. A different design has been selected for each denomination, chosen from masterpieces by Italy's famous artists.</p><p>This coin shows the Mole Antonelliana, a tower designed in 1863 by Alessandro Antonelli.  </p>",
+          "icon":"/images/eu-countries/coin-italy-6-icon.jpg",
+          "img":"/images/eu-countries/coin-italy-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-italy-6-optimized.jpg"
+       },
+       {
+          "id":"coin-italy-7",
+          "collection":"italy",
+          "title":"1 cent",
+          "description":"<p>In Italy, the euro coin designs were subject to scrutiny by a national technical and artistic committee before being presented to the nation on RAI UNO, Italy's largest national television station. A different design has been selected for each denomination, chosen from masterpieces by Italy's famous artists.</p><p>The Castel del Monte appears on this coin. </p>",
+          "icon":"/images/eu-countries/coin-italy-7-icon.jpg",
+          "img":"/images/eu-countries/coin-italy-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-italy-7-optimized.jpg"
+       },
+       {
+          "id":"coin-luxembourg-0",
+          "collection":"luxembourg",
+          "title":"€2",
+          "description":"<p>Yvette Gastauer-Claire designed the coins by agreement with the Royal Household and the Luxembourg Government.</p>\n<p>All the Luxembourg coins bear the profile of His Royal Highness Grand Duke Henri. They also bear the year of issue and the word \"Luxembourg\" written in Luxembourgish (\"Lëtzebuerg\").</p>",
+          "icon":"/images/eu-countries/coin-luxembourg-0-icon.jpg",
+          "img":"/images/eu-countries/coin-luxembourg-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-luxembourg-0-optimized.jpg"
+       },
+       {
+          "id":"coin-luxembourg-1",
+          "collection":"luxembourg",
+          "title":"€1",
+          "description":"<p>Yvette Gastauer-Claire designed the coins by agreement with the Royal Household and the Luxembourg Government.</p>\n<p>All the Luxembourg coins bear the profile of His Royal Highness Grand Duke Henri. They also bear the year of issue and the word \"Luxembourg\" written in Luxembourgish (\"Lëtzebuerg\").</p>",
+          "icon":"/images/eu-countries/coin-luxembourg-1-icon.jpg",
+          "img":"/images/eu-countries/coin-luxembourg-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-luxembourg-1-optimized.jpg"
+       },
+       {
+          "id":"coin-luxembourg-2",
+          "collection":"luxembourg",
+          "title":"50 cent",
+          "description":"<p>Yvette Gastauer-Claire designed the coins by agreement with the Royal Household and the Luxembourg Government.</p>\n<p>All the Luxembourg coins bear the profile of His Royal Highness Grand Duke Henri. They also bear the year of issue and the word \"Luxembourg\" written in Luxembourgish (\"Lëtzebuerg\").</p>",
+          "icon":"/images/eu-countries/coin-luxembourg-2-icon.jpg",
+          "img":"/images/eu-countries/coin-luxembourg-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-luxembourg-2-optimized.jpg"
+       },
+       {
+          "id":"coin-luxembourg-3",
+          "collection":"luxembourg",
+          "title":"20 cent",
+          "description":"<p>Yvette Gastauer-Claire designed the coins by agreement with the Royal Household and the Luxembourg Government.</p>\n<p>All the Luxembourg coins bear the profile of His Royal Highness Grand Duke Henri. They also bear the year of issue and the word \"Luxembourg\" written in Luxembourgish (\"Lëtzebuerg\").</p>",
+          "icon":"/images/eu-countries/coin-luxembourg-3-icon.jpg",
+          "img":"/images/eu-countries/coin-luxembourg-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-luxembourg-3-optimized.jpg"
+       },
+       {
+          "id":"coin-luxembourg-4",
+          "collection":"luxembourg",
+          "title":"10 cent",
+          "description":"<p>Yvette Gastauer-Claire designed the coins by agreement with the Royal Household and the Luxembourg Government.</p>\n<p>All the Luxembourg coins bear the profile of His Royal Highness Grand Duke Henri. They also bear the year of issue and the word \"Luxembourg\" written in Luxembourgish (\"Lëtzebuerg\").</p>",
+          "icon":"/images/eu-countries/coin-luxembourg-4-icon.jpg",
+          "img":"/images/eu-countries/coin-luxembourg-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-luxembourg-4-optimized.jpg"
+       },
+       {
+          "id":"coin-luxembourg-5",
+          "collection":"luxembourg",
+          "title":"5 cent",
+          "description":"<p>Yvette Gastauer-Claire designed the coins by agreement with the Royal Household and the Luxembourg Government.</p>\n<p>All the Luxembourg coins bear the profile of His Royal Highness Grand Duke Henri. They also bear the year of issue and the word \"Luxembourg\" written in Luxembourgish (\"Lëtzebuerg\").</p>",
+          "icon":"/images/eu-countries/coin-luxembourg-5-icon.jpg",
+          "img":"/images/eu-countries/coin-luxembourg-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-luxembourg-5-optimized.jpg"
+       },
+       {
+          "id":"coin-luxembourg-6",
+          "collection":"luxembourg",
+          "title":"2 cent",
+          "description":"<p>Yvette Gastauer-Claire designed the coins by agreement with the Royal Household and the Luxembourg Government.</p>\n<p>All the Luxembourg coins bear the profile of His Royal Highness Grand Duke Henri. They also bear the year of issue and the word \"Luxembourg\" written in Luxembourgish (\"Lëtzebuerg\").</p>",
+          "icon":"/images/eu-countries/coin-luxembourg-6-icon.jpg",
+          "img":"/images/eu-countries/coin-luxembourg-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-luxembourg-6-optimized.jpg"
+       },
+       {
+          "id":"coin-luxembourg-7",
+          "collection":"luxembourg",
+          "title":"1 cent",
+          "description":"<p>Yvette Gastauer-Claire designed the coins by agreement with the Royal Household and the Luxembourg Government.</p>\n<p>All the Luxembourg coins bear the profile of His Royal Highness Grand Duke Henri. They also bear the year of issue and the word \"Luxembourg\" written in Luxembourgish (\"Lëtzebuerg\").</p>",
+          "icon":"/images/eu-countries/coin-luxembourg-7-icon.jpg",
+          "img":"/images/eu-countries/coin-luxembourg-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-luxembourg-7-optimized.jpg"
+       },
+       {
+          "id":"coin-malta-0",
+          "collection":"malta",
+          "title":"€2",
+          "description":"<p>The €1 and €2 coins show the emblem used by the Sovereign Order of Malta. During the Order's rule over Malta, between 1530 and 1798, the eight-pointed cross became associated with the island and is now often referred to as the Maltese Cross. </p>",
+          "icon":"/images/eu-countries/coin-malta-0-icon.jpg",
+          "img":"/images/eu-countries/coin-malta-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-malta-0-optimized.jpg"
+       },
+       {
+          "id":"coin-malta-1",
+          "collection":"malta",
+          "title":"€1",
+          "description":"<p>The €1 and €2 coins show the emblem used by the Sovereign Order of Malta. During the Order's rule over Malta, between 1530 and 1798, the eight-pointed cross became associated with the island and is now often referred to as the Maltese Cross. </p>",
+          "icon":"/images/eu-countries/coin-malta-1-icon.jpg",
+          "img":"/images/eu-countries/coin-malta-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-malta-1-optimized.jpg"
+       },
+       {
+          "id":"coin-malta-2",
+          "collection":"malta",
+          "title":"50 cent",
+          "description":"<p>The 10, 20 and 50-cent coins bear the Emblem of Malta, a shield displaying a heraldic representation of the Maltese national flag and supporting a mural crown that represents the fortifications of Malta and denotes a city state. The shield is bounded on the left by an olive branch and on the right by a palm branch, symbols of peace traditionally associated with Malta, forming a wreath tied at its base by a ribbon which carries the inscription \"Repubblika ta' Malta\" (Republic of Malta).</p>",
+          "icon":"/images/eu-countries/coin-malta-2-icon.jpg",
+          "img":"/images/eu-countries/coin-malta-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-malta-2-optimized.jpg"
+       },
+       {
+          "id":"coin-malta-3",
+          "collection":"malta",
+          "title":"20 cent",
+          "description":"<p>The 10, 20 and 50-cent coins bear the Emblem of Malta, a shield displaying a heraldic representation of the Maltese national flag and supporting a mural crown that represents the fortifications of Malta and denotes a city state. The shield is bounded on the left by an olive branch and on the right by a palm branch, symbols of peace traditionally associated with Malta, forming a wreath tied at its base by a ribbon which carries the inscription \"Repubblika ta' Malta\" (Republic of Malta). </p>",
+          "icon":"/images/eu-countries/coin-malta-3-icon.jpg",
+          "img":"/images/eu-countries/coin-malta-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-malta-3-optimized.jpg"
+       },
+       {
+          "id":"coin-malta-4",
+          "collection":"malta",
+          "title":"10 cent",
+          "description":"<p>The 10, 20 and 50-cent coins bear the Emblem of Malta, a shield displaying a heraldic representation of the Maltese national flag and supporting a mural crown that represents the fortifications of Malta and denotes a city state. The shield is bounded on the left by an olive branch and on the right by a palm branch, symbols of peace traditionally associated with Malta, forming a wreath tied at its base by a ribbon which carries the inscription \"Repubblika ta' Malta\" (Republic of Malta). </p>",
+          "icon":"/images/eu-countries/coin-malta-4-icon.jpg",
+          "img":"/images/eu-countries/coin-malta-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-malta-4-optimized.jpg"
+       },
+       {
+          "id":"coin-malta-5",
+          "collection":"malta",
+          "title":"5 cent",
+          "description":"<p>The 1, 2 and 5-cent coins depict the altar at the prehistoric temple complex of Mnajdra, built around 3600 BC on a low elevation overlooking the sea.  </p>",
+          "icon":"/images/eu-countries/coin-malta-5-icon.jpg",
+          "img":"/images/eu-countries/coin-malta-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-malta-5-optimized.jpg"
+       },
+       {
+          "id":"coin-malta-6",
+          "collection":"malta",
+          "title":"2 cent",
+          "description":"<p>The 1, 2 and 5-cent coins depict the altar at the prehistoric temple complex of Mnajdra, built around 3600 BC on a low elevation overlooking the sea.  </p>",
+          "icon":"/images/eu-countries/coin-malta-6-icon.jpg",
+          "img":"/images/eu-countries/coin-malta-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-malta-6-optimized.jpg"
+       },
+       {
+          "id":"coin-malta-7",
+          "collection":"malta",
+          "title":"1 cent",
+          "description":"<p>The 1, 2 and 5-cent coins depict the altar at the prehistoric temple complex of Mnajdra, built around 3600 BC on a low elevation overlooking the sea.  </p>",
+          "icon":"/images/eu-countries/coin-malta-7-icon.jpg",
+          "img":"/images/eu-countries/coin-malta-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-malta-7-optimized.jpg"
+       },
+       {
+          "id":"coin-portugal-0",
+          "collection":"portugal",
+          "title":"€2",
+          "description":"<p>Three different euro designs were chosen from entries to a national competition. Designer Vítor Manuel Fernandes dos Santos, who drew his inspiration from historical symbols and the seals of the first King of Portugal, Dom Afonso Henriques, won the competition with the following motifs:</p><p>€1 and €2 coins: the country's castles and coats of arms are set amid the European stars. This symbolises dialogue, the exchange of values and the dynamics of the building of Europe. The centrepiece is the royal seal of 1144. Edge lettering of the €2 coin: five coats of arms and seven castles, all equally spaced. </p>",
+          "icon":"/images/eu-countries/coin-portugal-0-icon.jpg",
+          "img":"/images/eu-countries/coin-portugal-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-portugal-0-optimized.jpg"
+       },
+       {
+          "id":"coin-portugal-1",
+          "collection":"portugal",
+          "title":"€1",
+          "description":"<p>Three different euro designs were chosen from entries to a national competition. Designer Vítor Manuel Fernandes dos Santos, who drew his inspiration from historical symbols and the seals of the first King of Portugal, Dom Afonso Henriques, won the competition with the following motifs:</p><p>€1 and €2 coins: the country's castles and coats of arms are set amid the European stars. This symbolises dialogue, the exchange of values and the dynamics of the building of Europe. The centrepiece is the royal seal of 1144.</p>",
+          "icon":"/images/eu-countries/coin-portugal-1-icon.jpg",
+          "img":"/images/eu-countries/coin-portugal-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-portugal-1-optimized.jpg"
+       },
+       {
+          "id":"coin-portugal-2",
+          "collection":"portugal",
+          "title":"50 cent",
+          "description":"<p>Three different euro designs were chosen from entries to a national competition. Designer Vítor Manuel Fernandes dos Santos, who drew his inspiration from historical symbols and the seals of the first King of Portugal, Dom Afonso Henriques, won the competition with the following motifs:</p><p>10, 20 and 50-cent coins: these depict the royal seal of 1142 as the centrepiece of the design. </p>",
+          "icon":"/images/eu-countries/coin-portugal-2-icon.jpg",
+          "img":"/images/eu-countries/coin-portugal-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-portugal-2-optimized.jpg"
+       },
+       {
+          "id":"coin-portugal-3",
+          "collection":"portugal",
+          "title":"20 cent",
+          "description":"<p>Three different euro designs were chosen from entries to a national competition. Designer Vítor Manuel Fernandes dos Santos, who drew his inspiration from historical symbols and the seals of the first King of Portugal, Dom Afonso Henriques, won the competition with the following motifs:</p><p>10, 20 and 50-cent coins: these depict the royal seal of 1142 as the centrepiece of the design. </p>",
+          "icon":"/images/eu-countries/coin-portugal-3-icon.jpg",
+          "img":"/images/eu-countries/coin-portugal-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-portugal-3-optimized.jpg"
+       },
+       {
+          "id":"coin-portugal-4",
+          "collection":"portugal",
+          "title":"10 cent",
+          "description":"<p>Three different euro designs were chosen from entries to a national competition. Designer Vítor Manuel Fernandes dos Santos, who drew his inspiration from historical symbols and the seals of the first King of Portugal, Dom Afonso Henriques, won the competition with the following motifs:</p><p>10, 20 and 50-cent coins: these depict the royal seal of 1142 as the centrepiece of the design. </p>",
+          "icon":"/images/eu-countries/coin-portugal-4-icon.jpg",
+          "img":"/images/eu-countries/coin-portugal-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-portugal-4-optimized.jpg"
+       },
+       {
+          "id":"coin-portugal-5",
+          "collection":"portugal",
+          "title":"5 cent",
+          "description":"<p>Three different euro designs were chosen from entries to a national competition. Designer Vítor Manuel Fernandes dos Santos, who drew his inspiration from historical symbols and the seals of the first King of Portugal, Dom Afonso Henriques, won the competition with the following motifs:</p><p>1, 2 and 5-cent coins: these bear the image of the first royal seal, from 1134, along with the inscription \"Portugal\".  </p>",
+          "icon":"/images/eu-countries/coin-portugal-5-icon.jpg",
+          "img":"/images/eu-countries/coin-portugal-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-portugal-5-optimized.jpg"
+       },
+       {
+          "id":"coin-portugal-6",
+          "collection":"portugal",
+          "title":"2 cent",
+          "description":"<p>Three different euro designs were chosen from entries to a national competition. Designer Vítor Manuel Fernandes dos Santos, who drew his inspiration from historical symbols and the seals of the first King of Portugal, Dom Afonso Henriques, won the competition with the following motifs:</p><p>1, 2 and 5-cent coins: these bear the image of the first royal seal, from 1134, along with the inscription \"Portugal\". </p>",
+          "icon":"/images/eu-countries/coin-portugal-6-icon.jpg",
+          "img":"/images/eu-countries/coin-portugal-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-portugal-6-optimized.jpg"
+       },
+       {
+          "id":"coin-portugal-7",
+          "collection":"portugal",
+          "title":"1 cent",
+          "description":"<p>Three different euro designs were chosen from entries to a national competition. Designer Vítor Manuel Fernandes dos Santos, who drew his inspiration from historical symbols and the seals of the first King of Portugal, Dom Afonso Henriques, won the competition with the following motifs:</p><p>1, 2 and 5-cent coins: these bear the image of the first royal seal, from 1134, along with the inscription \"Portugal\". </p>",
+          "icon":"/images/eu-countries/coin-portugal-7-icon.jpg",
+          "img":"/images/eu-countries/coin-portugal-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-portugal-7-optimized.jpg"
+       },
+       {
+          "id":"coin-slovenia-0",
+          "collection":"slovenia",
+          "title":"€2",
+          "description":"<p>This coin shows the poet France Prešeren and the inscription \"Shivé naj vsi naródi\" (God’s blessing on all nations) − a line taken from his poem \"Zdravljica\" which is also used in the country’s national anthem. Edge lettering of the €2 coin: SLOVENIJA followed by an engraved dot.  </p>",
+          "icon":"/images/eu-countries/coin-slovenia-0-icon.jpg",
+          "img":"/images/eu-countries/coin-slovenia-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-slovenia-0-optimized.jpg"
+       },
+       {
+          "id":"coin-slovenia-1",
+          "collection":"slovenia",
+          "title":"€1",
+          "description":"<p>This coin bears a portrait of Primož Trubar, author of the first book printed in Slovene.  </p>",
+          "icon":"/images/eu-countries/coin-slovenia-1-icon.jpg",
+          "img":"/images/eu-countries/coin-slovenia-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-slovenia-1-optimized.jpg"
+       },
+       {
+          "id":"coin-slovenia-2",
+          "collection":"slovenia",
+          "title":"50 cent",
+          "description":"<p>The Triglav mountain is depicted on this coin.  </p>",
+          "icon":"/images/eu-countries/coin-slovenia-2-icon.jpg",
+          "img":"/images/eu-countries/coin-slovenia-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-slovenia-2-optimized.jpg"
+       },
+       {
+          "id":"coin-slovenia-3",
+          "collection":"slovenia",
+          "title":"20 cent",
+          "description":"<p>Lipizzaner horses form the central feature of this design.  </p>",
+          "icon":"/images/eu-countries/coin-slovenia-3-icon.jpg",
+          "img":"/images/eu-countries/coin-slovenia-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-slovenia-3-optimized.jpg"
+       },
+       {
+          "id":"coin-slovenia-4",
+          "collection":"slovenia",
+          "title":"10 cent",
+          "description":"<p>This coin features architect Jože Plečnik’s unrealised plan for the Slovenian Parliament.  </p>",
+          "icon":"/images/eu-countries/coin-slovenia-4-icon.jpg",
+          "img":"/images/eu-countries/coin-slovenia-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-slovenia-4-optimized.jpg"
+       },
+       {
+          "id":"coin-slovenia-5",
+          "collection":"slovenia",
+          "title":"5 cent",
+          "description":"<p>This coin depicts a sower.  </p>",
+          "icon":"/images/eu-countries/coin-slovenia-5-icon.jpg",
+          "img":"/images/eu-countries/coin-slovenia-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-slovenia-5-optimized.jpg"
+       },
+       {
+          "id":"coin-slovenia-6",
+          "collection":"slovenia",
+          "title":"2 cent",
+          "description":"<p>The Sovereign Enthronement Stone features on this coin.  </p>",
+          "icon":"/images/eu-countries/coin-slovenia-6-icon.jpg",
+          "img":"/images/eu-countries/coin-slovenia-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-slovenia-6-optimized.jpg"
+       },
+       {
+          "id":"coin-slovenia-7",
+          "collection":"slovenia",
+          "title":"1 cent",
+          "description":"<p>This coin bears the image of a stork.  </p>",
+          "icon":"/images/eu-countries/coin-slovenia-7-icon.jpg",
+          "img":"/images/eu-countries/coin-slovenia-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-slovenia-7-optimized.jpg"
+       },
+       {
+          "id":"coin-slovakia-0",
+          "collection":"slovakia",
+          "title":"€2",
+          "description":"<p>The €1 and €2 coins depict a double cross on three hills, as featured in the national emblem of Slovakia.  </p>",
+          "icon":"/images/eu-countries/coin-slovakia-0-icon.jpg",
+          "img":"/images/eu-countries/coin-slovakia-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-slovakia-0-optimized.jpg"
+       },
+       {
+          "id":"coin-slovakia-1",
+          "collection":"slovakia",
+          "title":"€1",
+          "description":"<p>The €1 and €2 coins depict a double cross on three hills, as featured in the national emblem of Slovakia. </p>",
+          "icon":"/images/eu-countries/coin-slovakia-1-icon.jpg",
+          "img":"/images/eu-countries/coin-slovakia-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-slovakia-1-optimized.jpg"
+       },
+       {
+          "id":"coin-slovakia-2",
+          "collection":"slovakia",
+          "title":"50 cent",
+          "description":"<p>The 10, 20 and 50 cent coins show Bratislava castle and the national emblem of Slovakia.  </p>",
+          "icon":"/images/eu-countries/coin-slovakia-2-icon.jpg",
+          "img":"/images/eu-countries/coin-slovakia-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-slovakia-2-optimized.jpg"
+       },
+       {
+          "id":"coin-slovakia-3",
+          "collection":"slovakia",
+          "title":"20 cent",
+          "description":"<p>The 10, 20 and 50 cent coins show Bratislava castle and the national emblem of Slovakia.  </p>",
+          "icon":"/images/eu-countries/coin-slovakia-3-icon.jpg",
+          "img":"/images/eu-countries/coin-slovakia-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-slovakia-3-optimized.jpg"
+       },
+       {
+          "id":"coin-slovakia-4",
+          "collection":"slovakia",
+          "title":"10 cent",
+          "description":"<p>The 10, 20 and 50 cent coins show Bratislava castle and the national emblem of Slovakia.  </p>",
+          "icon":"/images/eu-countries/coin-slovakia-4-icon.jpg",
+          "img":"/images/eu-countries/coin-slovakia-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-slovakia-4-optimized.jpg"
+       },
+       {
+          "id":"coin-slovakia-5",
+          "collection":"slovakia",
+          "title":"5 cent",
+          "description":"<p>The 1, 2 and 5 cent coins feature the Tatra Mountains’ peak, Kriváň, a symbol of the sovereignty of the Slovak nation, and the national emblem of Slovakia.  </p>",
+          "icon":"/images/eu-countries/coin-slovakia-5-icon.jpg",
+          "img":"/images/eu-countries/coin-slovakia-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-slovakia-5-optimized.jpg"
+       },
+       {
+          "id":"coin-slovakia-6",
+          "collection":"slovakia",
+          "title":"2 cent",
+          "description":"<p>The 1, 2 and 5 cent coins feature the Tatra Mountains’ peak, Kriváň, a symbol of the sovereignty of the Slovak nation, and the national emblem of Slovakia.  </p>",
+          "icon":"/images/eu-countries/coin-slovakia-6-icon.jpg",
+          "img":"/images/eu-countries/coin-slovakia-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-slovakia-6-optimized.jpg"
+       },
+       {
+          "id":"coin-slovakia-7",
+          "collection":"slovakia",
+          "title":"1 cent",
+          "description":"<p>The 1, 2 and 5 cent coins feature the Tatra Mountains’ peak, Kriváň, a symbol of the sovereignty of the Slovak nation, and the national emblem of Slovakia.  </p>",
+          "icon":"/images/eu-countries/coin-slovakia-7-icon.jpg",
+          "img":"/images/eu-countries/coin-slovakia-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-slovakia-7-optimized.jpg"
+       },
+       {
+          "id":"coin-france-0",
+          "collection":"france",
+          "title":"€2",
+          "description":"<p>Over 1,200 designs were considered for the national side of the French coins. A panel chaired by the Minister for Economic Affairs and Finance chose three designs, each for certain specific denominations.</p>\n<p>The panel consisted of experts in numismatics, artists, a former Member of the European Commission (Christine Scrivener), Members of Parliament, the French Mint Director Emmanuel Constans, the General Engraver Pierre Rodier and the actress Irène Jacob, along with members of professional bodies. They selected the following designs:</p><p>€1 and €2 coins: a tree, drawn by the artist Joaquim Jimenez, appears on these coins, symbolising life, continuity and growth. It is contained in a hexagon and encircled by the motto of the Republic, \"Liberté, Egalité, Fraternité\" (Liberty, equality, fraternity). Edge lettering of the €2 coin: 2**, repeated six times, alternately upright and inverted.</p>",
+          "icon":"/images/eu-countries/coin-france-0-icon.jpg",
+          "img":"/images/eu-countries/coin-france-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-france-0-optimized.jpg"
+       },
+       {
+          "id":"coin-france-1",
+          "collection":"france",
+          "title":"€1",
+          "description":"<p>Over 1,200 designs were considered for the national side of the French coins. A panel chaired by the Minister for Economic Affairs and Finance chose three designs, each for certain specific denominations.</p>\n<p>The panel consisted of experts in numismatics, artists, a former Member of the European Commission (Christine Scrivener), Members of Parliament, the French Mint Director Emmanuel Constans, the General Engraver Pierre Rodier and the actress Irène Jacob, along with members of professional bodies. They selected the following designs:</p><p>€1 and €2 coins: a tree, drawn by the artist Joaquim Jimenez, appears on these coins, symbolising life, continuity and growth. It is contained in a hexagon and encircled by the motto of the Republic, \"Liberté, Egalité, Fraternité\" (Liberty, equality, fraternity). </p>",
+          "icon":"/images/eu-countries/coin-france-1-icon.jpg",
+          "img":"/images/eu-countries/coin-france-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-france-1-optimized.jpg"
+       },
+       {
+          "id":"coin-france-2",
+          "collection":"france",
+          "title":"50 cent",
+          "description":"<p>Over 1,200 designs were considered for the national side of the French coins. A panel chaired by the Minister for Economic Affairs and Finance chose three designs, each for certain specific denominations.</p>\n<p>The panel consisted of experts in numismatics, artists, a former Member of the European Commission (Christine Scrivener), Members of Parliament, the French Mint Director Emmanuel Constans, the General Engraver Pierre Rodier and the actress Irène Jacob, along with members of professional bodies. They selected the following designs:</p><p>10, 20 and 50-cent coins: the theme of the sower is a constant in the history of the French franc. Designed by Laurent Jorlo, \"this modern, timeless graphic represents France, which stays true to itself, whilst integrating into Europe\". </p>",
+          "icon":"/images/eu-countries/coin-france-2-icon.jpg",
+          "img":"/images/eu-countries/coin-france-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-france-2-optimized.jpg"
+       },
+       {
+          "id":"coin-france-3",
+          "collection":"france",
+          "title":"20 cent",
+          "description":"<p>Over 1,200 designs were considered for the national side of the French coins. A panel chaired by the Minister for Economic Affairs and Finance chose three designs, each for certain specific denominations.</p>\n<p>The panel consisted of experts in numismatics, artists, a former Member of the European Commission (Christine Scrivener), Members of Parliament, the French Mint Director Emmanuel Constans, the General Engraver Pierre Rodier and the actress Irène Jacob, along with members of professional bodies. They selected the following designs:</p><p>10, 20 and 50-cent coins: the theme of the sower is a constant in the history of the French franc. Designed by Laurent Jorlo, \"this modern, timeless graphic represents France, which stays true to itself, whilst integrating into Europe\". </p>",
+          "icon":"/images/eu-countries/coin-france-3-icon.jpg",
+          "img":"/images/eu-countries/coin-france-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-france-3-optimized.jpg"
+       },
+       {
+          "id":"coin-france-4",
+          "collection":"france",
+          "title":"10 cent",
+          "description":"<p>Over 1,200 designs were considered for the national side of the French coins. A panel chaired by the Minister for Economic Affairs and Finance chose three designs, each for certain specific denominations.</p>\n<p>The panel consisted of experts in numismatics, artists, a former Member of the European Commission (Christine Scrivener), Members of Parliament, the French Mint Director Emmanuel Constans, the General Engraver Pierre Rodier and the actress Irène Jacob, along with members of professional bodies. They selected the following designs:</p><p>10, 20 and 50-cent coins: the theme of the sower is a constant in the history of the French franc. Designed by Laurent Jorlo, \"this modern, timeless graphic represents France, which stays true to itself, whilst integrating into Europe\".  </p>",
+          "icon":"/images/eu-countries/coin-france-4-icon.jpg",
+          "img":"/images/eu-countries/coin-france-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-france-4-optimized.jpg"
+       },
+       {
+          "id":"coin-france-5",
+          "collection":"france",
+          "title":"5 cent",
+          "description":"<p>Over 1,200 designs were considered for the national side of the French coins. A panel chaired by the Minister for Economic Affairs and Finance chose three designs, each for certain specific denominations.</p>\n<p>The panel consisted of experts in numismatics, artists, a former Member of the European Commission (Christine Scrivener), Members of Parliament, the French Mint Director Emmanuel Constans, the General Engraver Pierre Rodier and the actress Irène Jacob, along with members of professional bodies. They selected the following designs:</p><p>1, 2 and 5-cent coins: these depict a young, feminine Marianne with determined features that embody the desire for a sound and lasting Europe. The design was the work of Fabienne Courtiade, an engraver from the Paris Mint.  </p>",
+          "icon":"/images/eu-countries/coin-france-5-icon.jpg",
+          "img":"/images/eu-countries/coin-france-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-france-5-optimized.jpg"
+       },
+       {
+          "id":"coin-france-6",
+          "collection":"france",
+          "title":"2 cent",
+          "description":"<p>Over 1,200 designs were considered for the national side of the French coins. A panel chaired by the Minister for Economic Affairs and Finance chose three designs, each for certain specific denominations.</p>\n<p>The panel consisted of experts in numismatics, artists, a former Member of the European Commission (Christine Scrivener), Members of Parliament, the French Mint Director Emmanuel Constans, the General Engraver Pierre Rodier and the actress Irène Jacob, along with members of professional bodies. They selected the following designs:</p><p>1, 2 and 5-cent coins: these depict a young, feminine Marianne with determined features that embody the desire for a sound and lasting Europe. The design was the work of Fabienne Courtiade, an engraver from the Paris Mint.  </p>",
+          "icon":"/images/eu-countries/coin-france-6-icon.jpg",
+          "img":"/images/eu-countries/coin-france-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-france-6-optimized.jpg"
+       },
+       {
+          "id":"coin-france-7",
+          "collection":"france",
+          "title":"1 cent",
+          "description":"<p>Over 1,200 designs were considered for the national side of the French coins. A panel chaired by the Minister for Economic Affairs and Finance chose three designs, each for certain specific denominations.</p>\n<p>The panel consisted of experts in numismatics, artists, a former Member of the European Commission (Christine Scrivener), Members of Parliament, the French Mint Director Emmanuel Constans, the General Engraver Pierre Rodier and the actress Irène Jacob, along with members of professional bodies. They selected the following designs:</p><p>1, 2 and 5-cent coins: these depict a young, feminine Marianne with determined features that embody the desire for a sound and lasting Europe. The design was the work of Fabienne Courtiade, an engraver from the Paris Mint.  </p>",
+          "icon":"/images/eu-countries/coin-france-7-icon.jpg",
+          "img":"/images/eu-countries/coin-france-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-france-7-optimized.jpg"
+       },
+       {
+          "id":"coin-latvia-0",
+          "collection":"latvia",
+          "title":"€2",
+          "description":"<p>The €2 coin features a Latvian folk maiden. This image was originally used on the silver 5 lats coin in 1929. The edge of the coin bears the inscription DIEVS * SVĒTĪ * LATVIJU (GOD BLESS LATVIA). The designer is Guntars Sietiņš. </p>",
+          "icon":"/images/eu-countries/coin-latvia-0-icon.jpg",
+          "img":"/images/eu-countries/coin-latvia-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-latvia-0-optimized.jpg"
+       },
+       {
+          "id":"coin-latvia-1",
+          "collection":"latvia",
+          "title":"€1",
+          "description":"<p>The €1 coin features a Latvian folk maiden. This image was originally used on the silver 5 lats coin in 1929. The designer is Guntars Sietiņš. </p>",
+          "icon":"/images/eu-countries/coin-latvia-1-icon.jpg",
+          "img":"/images/eu-countries/coin-latvia-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-latvia-1-optimized.jpg"
+       },
+       {
+          "id":"coin-latvia-2",
+          "collection":"latvia",
+          "title":"50 cent",
+          "description":"<p>The 50 cent coin shows the large coat of arms of the Republic of Latvia. The designer is Laimonis Šēnbergs. </p>",
+          "icon":"/images/eu-countries/coin-latvia-2-icon.jpg",
+          "img":"/images/eu-countries/coin-latvia-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-latvia-2-optimized.jpg"
+       },
+       {
+          "id":"coin-latvia-3",
+          "collection":"latvia",
+          "title":"20 cent",
+          "description":"<p>The 20 cent coin shows the large coat of arms of the Republic of Latvia. The designer is Laimonis Šēnbergs. </p>",
+          "icon":"/images/eu-countries/coin-latvia-3-icon.jpg",
+          "img":"/images/eu-countries/coin-latvia-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-latvia-3-optimized.jpg"
+       },
+       {
+          "id":"coin-latvia-4",
+          "collection":"latvia",
+          "title":"10 cent",
+          "description":"<p>The 10 cent coin shows the large coat of arms of the Republic of Latvia. The designer is Laimonis Šēnbergs. </p>",
+          "icon":"/images/eu-countries/coin-latvia-4-icon.jpg",
+          "img":"/images/eu-countries/coin-latvia-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-latvia-4-optimized.jpg"
+       },
+       {
+          "id":"coin-latvia-5",
+          "collection":"latvia",
+          "title":"5 cent",
+          "description":"<p>The 5 cent coin shows the small coat of arms of the Republic of Latvia. The designer is Laimonis Šēnbergs. </p>",
+          "icon":"/images/eu-countries/coin-latvia-5-icon.jpg",
+          "img":"/images/eu-countries/coin-latvia-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-latvia-5-optimized.jpg"
+       },
+       {
+          "id":"coin-latvia-6",
+          "collection":"latvia",
+          "title":"2 cent",
+          "description":"<p>The 2 cent coin shows the small coat of arms of the Republic of Latvia. The designer is Laimonis Šēnbergs. </p>",
+          "icon":"/images/eu-countries/coin-latvia-6-icon.jpg",
+          "img":"/images/eu-countries/coin-latvia-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-latvia-6-optimized.jpg"
+       },
+       {
+          "id":"coin-latvia-7",
+          "collection":"latvia",
+          "title":"1 cent",
+          "description":"<p>The 1 cent coin shows the small coat of arms of the Republic of Latvia. The designer is Laimonis Šēnbergs. </p>",
+          "icon":"/images/eu-countries/coin-latvia-7-icon.jpg",
+          "img":"/images/eu-countries/coin-latvia-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-latvia-7-optimized.jpg"
+       },
+       {
+          "id":"coin-lithuania-0",
+          "collection":"lithuania",
+          "title":"€2",
+          "description":"<p>Lithuania’s euro coins show the coat of arms of the Republic of Lithuania, Vytis, the country of issuance \"LIETUVA\" and the year of issuance \"2015\". The coins also feature the 12 stars of the European flag. They were designed by the sculptor Antanas Žukauskas.</p><p>Edge-lettering of the €2 coin: LAISVĖ * VIENYBĖ * GEROVĖ * (Freedom * Unity * Well-Being *)</p>",
+          "icon":"/images/eu-countries/coin-lithuania-0-icon.jpg",
+          "img":"/images/eu-countries/coin-lithuania-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-lithuania-0-optimized.jpg"
+       },
+       {
+          "id":"coin-lithuania-1",
+          "collection":"lithuania",
+          "title":"€1",
+          "description":"<p>Lithuania’s euro coins show the coat of arms of the Republic of Lithuania, Vytis, the country of issuance \"LIETUVA\" and the year of issuance \"2015\". The coins also feature the 12 stars of the European flag. They were designed by the sculptor Antanas Žukauskas.</p><p></p>",
+          "icon":"/images/eu-countries/coin-lithuania-1-icon.jpg",
+          "img":"/images/eu-countries/coin-lithuania-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-lithuania-1-optimized.jpg"
+       },
+       {
+          "id":"coin-lithuania-2",
+          "collection":"lithuania",
+          "title":"50 cent",
+          "description":"<p>Lithuania’s euro coins show the coat of arms of the Republic of Lithuania, Vytis, the country of issuance \"LIETUVA\" and the year of issuance \"2015\". The coins also feature the 12 stars of the European flag. They were designed by the sculptor Antanas Žukauskas.</p><p></p>",
+          "icon":"/images/eu-countries/coin-lithuania-2-icon.jpg",
+          "img":"/images/eu-countries/coin-lithuania-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-lithuania-2-optimized.jpg"
+       },
+       {
+          "id":"coin-lithuania-3",
+          "collection":"lithuania",
+          "title":"20 cent",
+          "description":"<p>Lithuania’s euro coins show the coat of arms of the Republic of Lithuania, Vytis, the country of issuance \"LIETUVA\" and the year of issuance \"2015\". The coins also feature the 12 stars of the European flag. They were designed by the sculptor Antanas Žukauskas.</p><p></p>",
+          "icon":"/images/eu-countries/coin-lithuania-3-icon.jpg",
+          "img":"/images/eu-countries/coin-lithuania-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-lithuania-3-optimized.jpg"
+       },
+       {
+          "id":"coin-lithuania-4",
+          "collection":"lithuania",
+          "title":"10 cent",
+          "description":"<p>Lithuania’s euro coins show the coat of arms of the Republic of Lithuania, Vytis, the country of issuance \"LIETUVA\" and the year of issuance \"2015\". The coins also feature the 12 stars of the European flag. They were designed by the sculptor Antanas Žukauskas.</p><p></p>",
+          "icon":"/images/eu-countries/coin-lithuania-4-icon.jpg",
+          "img":"/images/eu-countries/coin-lithuania-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-lithuania-4-optimized.jpg"
+       },
+       {
+          "id":"coin-lithuania-5",
+          "collection":"lithuania",
+          "title":"5 cent",
+          "description":"<p>Lithuania’s euro coins show the coat of arms of the Republic of Lithuania, Vytis, the country of issuance \"LIETUVA\" and the year of issuance \"2015\". The coins also feature the 12 stars of the European flag. They were designed by the sculptor Antanas Žukauskas.</p><p></p>",
+          "icon":"/images/eu-countries/coin-lithuania-5-icon.jpg",
+          "img":"/images/eu-countries/coin-lithuania-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-lithuania-5-optimized.jpg"
+       },
+       {
+          "id":"coin-lithuania-6",
+          "collection":"lithuania",
+          "title":"2 cent",
+          "description":"<p>Lithuania’s euro coins show the coat of arms of the Republic of Lithuania, Vytis, the country of issuance \"LIETUVA\" and the year of issuance \"2015\". The coins also feature the 12 stars of the European flag. They were designed by the sculptor Antanas Žukauskas.</p><p></p>",
+          "icon":"/images/eu-countries/coin-lithuania-6-icon.jpg",
+          "img":"/images/eu-countries/coin-lithuania-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-lithuania-6-optimized.jpg"
+       },
+       {
+          "id":"coin-lithuania-7",
+          "collection":"lithuania",
+          "title":"1 cent",
+          "description":"<p>Lithuania’s euro coins show the coat of arms of the Republic of Lithuania, Vytis, the country of issuance \"LIETUVA\" and the year of issuance \"2015\". The coins also feature the 12 stars of the European flag. They were designed by the sculptor Antanas Žukauskas.</p><p></p>",
+          "icon":"/images/eu-countries/coin-lithuania-7-icon.jpg",
+          "img":"/images/eu-countries/coin-lithuania-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-lithuania-7-optimized.jpg"
+       },
+       {
+          "id":"coin-san-marino-s1-0",
+          "collection":"san-marino-s1",
+          "title":"€2",
+          "description":"<p>The Government building (Palazzo Pubblico) is shown on this coin. Edge lettering of the €2 coin: 2*, repeated six times, alternately upright and inverted.</p>",
+          "icon":"/images/eu-countries/coin-san-marino-s1-0-icon.jpg",
+          "img":"/images/eu-countries/coin-san-marino-s1-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-san-marino-s1-0-optimized.jpg"
+       },
+       {
+          "id":"coin-san-marino-s1-1",
+          "collection":"san-marino-s1",
+          "title":"€1",
+          "description":"<p>The Republic's official coat of arms features on the €1 coin.  </p>",
+          "icon":"/images/eu-countries/coin-san-marino-s1-1-icon.jpg",
+          "img":"/images/eu-countries/coin-san-marino-s1-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-san-marino-s1-1-optimized.jpg"
+       },
+       {
+          "id":"coin-san-marino-s1-2",
+          "collection":"san-marino-s1",
+          "title":"50 cent",
+          "description":"<p>The 50-cent coin shows the Three Towers of San Marino: Guaita, Cesta and Montale.  </p>",
+          "icon":"/images/eu-countries/coin-san-marino-s1-2-icon.jpg",
+          "img":"/images/eu-countries/coin-san-marino-s1-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-san-marino-s1-2-optimized.jpg"
+       },
+       {
+          "id":"coin-san-marino-s1-3",
+          "collection":"san-marino-s1",
+          "title":"20 cent",
+          "description":"<p>Saint Marinus, based on a canvas of the Guercino school, is depicted on this coin.</p>",
+          "icon":"/images/eu-countries/coin-san-marino-s1-3-icon.jpg",
+          "img":"/images/eu-countries/coin-san-marino-s1-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-san-marino-s1-3-optimized.jpg"
+       },
+       {
+          "id":"coin-san-marino-s1-4",
+          "collection":"san-marino-s1",
+          "title":"10 cent",
+          "description":"<p>The 10-cent coin features the Basilica of Saint Marinus.  </p>",
+          "icon":"/images/eu-countries/coin-san-marino-s1-4-icon.jpg",
+          "img":"/images/eu-countries/coin-san-marino-s1-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-san-marino-s1-4-optimized.jpg"
+       },
+       {
+          "id":"coin-san-marino-s1-5",
+          "collection":"san-marino-s1",
+          "title":"5 cent",
+          "description":"<p>The 1, 2 and 5-cent coins show the Third Tower (Montale), the Statue of Liberty and the First Tower (Guaita) respectively.  </p>",
+          "icon":"/images/eu-countries/coin-san-marino-s1-5-icon.jpg",
+          "img":"/images/eu-countries/coin-san-marino-s1-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-san-marino-s1-5-optimized.jpg"
+       },
+       {
+          "id":"coin-san-marino-s1-6",
+          "collection":"san-marino-s1",
+          "title":"2 cent",
+          "description":"<p>The 1, 2 and 5-cent coins show the Third Tower (Montale), the Statue of Liberty and the First Tower (Guaita) respectively.  </p>",
+          "icon":"/images/eu-countries/coin-san-marino-s1-6-icon.jpg",
+          "img":"/images/eu-countries/coin-san-marino-s1-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-san-marino-s1-6-optimized.jpg"
+       },
+       {
+          "id":"coin-san-marino-s1-7",
+          "collection":"san-marino-s1",
+          "title":"1 cent",
+          "description":"<p>The 1, 2 and 5-cent coins show the Third Tower (Montale), the Statue of Liberty and the First Tower (Guaita) respectively.  </p>",
+          "icon":"/images/eu-countries/coin-san-marino-s1-7-icon.jpg",
+          "img":"/images/eu-countries/coin-san-marino-s1-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-san-marino-s1-7-optimized.jpg"
+       },
+       {
+          "id":"coin-finland-s-1-0",
+          "collection":"finland-s1",
+          "title":"€2",
+          "description":"<p>Finland chose three designs based upon motifs similar to those used before on national coins.</p><p>The motif on this coin comprises cloudberries and cloudberry flowers in a design by Raimo Heino. Edge lettering of the €2 coin: SUOMI FINLAND ***, where the * represents a lion's head.  </p>",
+          "icon":"/images/eu-countries/coin-finland-0-icon.jpg",
+          "img":"/images/eu-countries/coin-finland-0.jpg",
+          "img-optimized":"/images/eu-countries/coin-finland-0-optimized.jpg"
+       },
+       {
+          "id":"coin-finland-s-1-1",
+          "collection":"finland-s1",
+          "title":"€1",
+          "description":"<p>Finland chose three designs based upon motifs similar to those used before on national coins.</p><p>The artist Pertti Mäkinen created a motif depicting two flying swans for this coin. The design was taken from his competition entry for a coin to commemorate the 80th anniversary of the independence of Finland.  </p>",
+          "icon":"/images/eu-countries/coin-finland-1-icon.jpg",
+          "img":"/images/eu-countries/coin-finland-1.jpg",
+          "img-optimized":"/images/eu-countries/coin-finland-1-optimized.jpg"
+       },
+       {
+          "id":"coin-finland-s-1-2",
+          "collection":"finland-s1",
+          "title":"50 cent",
+          "description":"<p>Finland chose three designs based upon motifs similar to those used before on national coins.</p><p>1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.  </p>",
+          "icon":"/images/eu-countries/coin-finland-2-icon.jpg",
+          "img":"/images/eu-countries/coin-finland-2.jpg",
+          "img-optimized":"/images/eu-countries/coin-finland-2-optimized.jpg"
+       },
+       {
+          "id":"coin-finland-s-1-3",
+          "collection":"finland-s1",
+          "title":"20 cent",
+          "description":"<p>Finland chose three designs based upon motifs similar to those used before on national coins.</p><p>1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.  </p>",
+          "icon":"/images/eu-countries/coin-finland-3-icon.jpg",
+          "img":"/images/eu-countries/coin-finland-3.jpg",
+          "img-optimized":"/images/eu-countries/coin-finland-3-optimized.jpg"
+       },
+       {
+          "id":"coin-finland-s-1-4",
+          "collection":"finland-s1",
+          "title":"10 cent",
+          "description":"<p>Finland chose three designs based upon motifs similar to those used before on national coins.</p><p>1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.  </p>",
+          "icon":"/images/eu-countries/coin-finland-4-icon.jpg",
+          "img":"/images/eu-countries/coin-finland-4.jpg",
+          "img-optimized":"/images/eu-countries/coin-finland-4-optimized.jpg"
+       },
+       {
+          "id":"coin-finland-s-1-5",
+          "collection":"finland-s1",
+          "title":"5 cent",
+          "description":"<p>Finland chose three designs based upon motifs similar to those used before on national coins.</p><p>1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.  </p>",
+          "icon":"/images/eu-countries/coin-finland-5-icon.jpg",
+          "img":"/images/eu-countries/coin-finland-5.jpg",
+          "img-optimized":"/images/eu-countries/coin-finland-5-optimized.jpg"
+       },
+       {
+          "id":"coin-finland-s-1-6",
+          "collection":"finland-s1",
+          "title":"2 cent",
+          "description":"<p>Finland chose three designs based upon motifs similar to those used before on national coins.</p><p>1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.  </p>",
+          "icon":"/images/eu-countries/coin-finland-6-icon.jpg",
+          "img":"/images/eu-countries/coin-finland-6.jpg",
+          "img-optimized":"/images/eu-countries/coin-finland-6-optimized.jpg"
+       },
+       {
+          "id":"coin-finland-s-1-7",
+          "collection":"finland-s1",
+          "title":"1 cent",
+          "description":"<p>Finland chose three designs based upon motifs similar to those used before on national coins.</p><p>1, 2, 5, 10, 20 and 50-cent coins: these show the Finnish heraldic lion in a reproduction of a design by the sculptor Heikki Häiväoja. The heraldic lion in a variety of designs has been used on several Finnish coins over the years, for example on the 1 markka coins between 1964 and 2001.  </p>",
+          "icon":"/images/eu-countries/coin-finland-7-icon.jpg",
+          "img":"/images/eu-countries/coin-finland-7.jpg",
+          "img-optimized":"/images/eu-countries/coin-finland-7-optimized.jpg"
+       }
+    ]
+ }

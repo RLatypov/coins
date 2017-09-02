@@ -1,0 +1,124 @@
+html, body {
+    height: 100%;
+}
+
+html {
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+    margin: 0;
+}
+
+a {
+    color: rgb(0, 51, 153);
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a.forgot-password {
+    font-size: 12px;
+}
+
+.container {
+    padding: 0 15px;
+    max-width: 768px;
+    margin: 0 auto;
+}
+
+.container:before,
+.container:after {
+    content: "";
+    display: table;
+}
+
+.dialog {
+    max-width: 600px !important;
+}
+
+.btn-login {
+    margin-top: 7px !important;
+    color: #ffffff !important;
+}
+
+.grid {
+    margin: 5px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.grid-tile {
+    width: 310px;
+    margin: 5px;
+    position: relative;
+}
+
+.grid-img {
+    max-width: 100%;
+    display: block;
+}
+
+.grid-title {
+    position: absolute;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.4);
+    width: 100%;
+    padding: 16px;
+    box-sizing: border-box;
+    color: #ffffff;
+}
+
+.img-coin {
+    margin: 0 auto;
+    display: block;
+    max-width: 250px;
+}
+
+.img-collection {
+    background: transparent !important;
+}
+
+.img-collection img {
+    max-width: 40px;
+}
+
+.coins-item {
+    position: relative !important;
+}
+
+.coins-inner-item > div > div {
+    padding-left: 16px !important;
+    padding-right: 72px !important;
+    display: flex;
+    align-items: center;
+}
+
+.coins-item-checkbox {
+    position: absolute !important;
+    display: block !important;
+    width: 24px !important;
+    left: auto;
+    top: 50%;
+    right: 24px;
+    margin-top: -12px;
+}
+
+.coins-item-avatar {
+    background: transparent !important;
+    top: 0 !important;
+    left: 0 !important;
+    position: relative !important;
+    margin-right: 24px;
+}
+
+.coins-item-avatar img {
+    max-width: 40px;
+}
+
+.coins-item-euro-regular .coins-item-avatar img {
+    max-width: 60px;
+}
